@@ -256,7 +256,7 @@
   <!--Sawmill-->
   <Item>
     <ID>Woodcutter</ID>
-    <Name>Aserradero</Name>
+    <Name>Sierra</Name>
     <Description>Cortar troncos en tablones.</Description>
     <AudioEventClick>WOOD_WORKSHOP</AudioEventClick>
     <Tile>
@@ -1353,7 +1353,7 @@
   <!--Stonemason-->
   <Item>
     <ID>Stonemason</ID>
-    <Name>Cantera</Name>
+    <Name>Taller de piedra</Name>
     <Description>Muebles de artesania a partir de bloques de piedra.</Description>
     <AudioEventClick>STONE_WORKSHOP</AudioEventClick>
     <Tile>
@@ -2651,7 +2651,7 @@
   </Item>
   <Item>
     <ID>MachineShop</ID>
-    <Name>Tienda de maquinas</Name>
+    <Name>Taller de mecanismos</Name>
     <Description>Crea partes mecanicas.</Description>
     <AudioEventClick>MECHANISM_WORKSHOP</AudioEventClick>
     <Tile>
@@ -4007,7 +4007,7 @@
   
   <Item>
     <ID>Weaponsmith</ID>
-    <Name>Creador de armas</Name>
+    <Name>Taller de armas</Name>
     <Description>Crea armas.</Description>
     <AudioEventClick>BLACKSMITH_WORKSHOP</AudioEventClick>
     <Tile>
@@ -4662,7 +4662,7 @@
   </Item>
   <Item>
     <ID>Engineer</ID>
-    <Name>Tienda de ingenieria</Name>
+    <Name>Taller de ingenieria</Name>
     <Description>Construye mecanismos y trampas.</Description>
     <AudioEventClick>MECHANISM_WORKSHOP</AudioEventClick>
     <Tile>

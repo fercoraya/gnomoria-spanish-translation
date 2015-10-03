@@ -203,7 +203,7 @@
     <ID>Wheat</ID>
     <Name>grano</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Cultivado en una granja</ObtainDescription>
+    <ObtainDescription>Obtenido en un cultivo</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -389,7 +389,7 @@
   <Item>
     <ID>Plank</ID>
     <Name>tablon</Name>
-    <ObtainDescription>Cortado en el aserradero</ObtainDescription>
+    <ObtainDescription>Cortado en la sierra</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>100</WeaponSize>
@@ -875,8 +875,8 @@
   </Item>
   <Item>
     <ID>FellingAxe</ID>
-    <Name>felling axe</Name>
-    <Description>[AN_ITEM_NAME].  Used to fell trees.</Description>
+    <Name>hacha de talar</Name>
+    <Description>[AN_ITEM_NAME].  Usado para cortar arboles.</Description>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -908,7 +908,7 @@
   </Item>
   <Item>
     <ID>Sword</ID>
-    <Name>sword</Name>
+    <Name>espada</Name>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -963,7 +963,7 @@
   </Item>
   <Item>
     <ID>HandAxe</ID>
-    <Name>hand axe</Name>
+    <Name>hacha</Name>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -1004,7 +1004,7 @@
   </Item>
   <Item>
     <ID>Hammer</ID>
-    <Name>hammer</Name>
+    <Name>martillo</Name>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -1045,7 +1045,7 @@
   </Item>
   <Item>
     <ID>Claymore</ID>
-    <Name>claymore</Name>
+    <Name>espadon</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
@@ -1089,7 +1089,7 @@
   </Item>
   <Item>
     <ID>BattleAxe</ID>
-    <Name>battle axe</Name>
+    <Name>hacha de batalla</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
@@ -1130,7 +1130,7 @@
   </Item>
   <Item>
     <ID>Warhammer</ID>
-    <Name>warhammer</Name>
+    <Name>martillo de guerra</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
@@ -1172,7 +1172,7 @@
   </Item>
   <Item>
     <ID>Shield</ID>
-    <Name>shield</Name>
+    <Name>escudo</Name>
     
     <Value>20</Value>
     <WeaponSize>50</WeaponSize>
@@ -1216,8 +1216,8 @@
   </Item>
   <Item>
     <ID>Torch</ID>
-    <Name>torch</Name>
-    <Description>[AN_ITEM_NAME].  Provides light when placed or held.</Description>
+    <Name>antorcha</Name>
+    <Description>[AN_ITEM_NAME].  Ilumina.</Description>
     <Effect>
       <Effect>LightSource</Effect>
       <Amount>16</Amount>
@@ -1261,7 +1261,7 @@
   </Item>
   <Item>
     <ID>Helmet</ID>
-    <Name>helmet</Name>
+    <Name>casco</Name>
     
     <Value>8.5</Value>
     <CombatRatingModifier>2</CombatRatingModifier>
@@ -1280,7 +1280,7 @@
   </Item>
   <Item>
     <ID>Breastplate</ID>
-    <Name>breastplate</Name>
+    <Name>coraza</Name>
     
     <Value>10</Value>
     <CombatRatingModifier>2</CombatRatingModifier>
@@ -1299,7 +1299,7 @@
   </Item>
   <Item>
     <ID>Pauldron</ID>
-    <Name>pauldron</Name>
+    <Name>hombreras</Name>
     
     <Value>6</Value>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1318,7 +1318,7 @@
   </Item>
   <Item>
     <ID>Greave</ID>
-    <Name>greave</Name>
+    <Name>greba</Name>
     
     <Value>4</Value>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1335,7 +1335,7 @@
   </Item>
   <Item>
     <ID>Gauntlet</ID>
-    <Name>gauntlet</Name>
+    <Name>guantelete</Name>
     
     <Value>4</Value>
     <CombatRatingModifier>0.5</CombatRatingModifier>
@@ -1354,7 +1354,7 @@
   </Item>
   <Item>
     <ID>Boot</ID>
-    <Name>boot</Name>
+    <Name>bota</Name>
     
     <Value>4</Value>
     <CombatRatingModifier>0.5</CombatRatingModifier>
@@ -1373,7 +1373,7 @@
   </Item>
   <Item>
     <ID>LeatherHelm</ID>
-    <Name>leather helm</Name>
+    <Name>casco de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>6</Value>
@@ -1388,7 +1388,7 @@
   </Item>
   <Item>
     <ID>LeatherCuirass</ID>
-    <Name>leather cuirass</Name>
+    <Name>coraza de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>6</Value>
@@ -1403,7 +1403,7 @@
   </Item>
   <Item>
     <ID>LeatherBracer</ID>
-    <Name>leather bracer</Name>
+    <Name>brazal de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>4</Value>
@@ -1418,7 +1418,7 @@
   </Item>
   <Item>
     <ID>LeatherGreave</ID>
-    <Name>leather greave</Name>
+    <Name>greba de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>2.5</Value>
@@ -1432,7 +1432,7 @@
   </Item>
   <Item>
     <ID>LeatherGlove</ID>
-    <Name>leather glove</Name>
+    <Name>guante de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>2</Value>
@@ -1447,7 +1447,7 @@
   </Item>
   <Item>
     <ID>LeatherBoot</ID>
-    <Name>leather boot</Name>
+    <Name>bota de cuero</Name>
     
     <Thickness>0.75</Thickness>
     <Value>2</Value>
@@ -1462,7 +1462,7 @@
   </Item>
   <Item>
     <ID>Corpse</ID>
-    <Name>corpse</Name>
+    <Name>cadaver</Name>
     <Effect>
       <Effect>Rots</Effect>
       <Amount>4</Amount>
@@ -1476,7 +1476,7 @@
   </Item>
   <Item>
     <ID>BodyPart</ID>
-    <Name>limb</Name>
+    <Name>miembro</Name>
     <Effect>
       <Effect>Rots</Effect>
       <Amount>4</Amount>
@@ -1489,7 +1489,7 @@
   </Item>
   <Item>
     <ID>Pistol</ID>
-    <Name>flintlock pistol</Name>
+    <Name>pistola</Name>
     
     <Value>31</Value>
     <WeaponSize>100</WeaponSize>
@@ -1533,7 +1533,7 @@
   </Item>
   <Item>
     <ID>Blunderbuss</ID>
-    <Name>blunderbuss</Name>
+    <Name>trabuco</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>30</Value>
@@ -1578,7 +1578,7 @@
   </Item>
   <Item>
     <ID>Crossbow</ID>
-    <Name>crossbow</Name>
+    <Name>ballesta</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>50</Value>
@@ -1669,7 +1669,7 @@
   </Item>
   <Item>
     <ID>AmmoPouch</ID>
-    <Name>ammo pouch</Name>
+    <Name>bolsa de municion</Name>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
@@ -1684,7 +1684,7 @@
   </Item>
   <Item>
     <ID>Quiver</ID>
-    <Name>quiver</Name>
+    <Name>carcaj</Name>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>16</Amount>
@@ -1699,7 +1699,7 @@
   </Item>
   <Item>
     <ID>Pillar</ID>
-    <Name>pillar</Name>
+    <Name>pilar</Name>
     
     <Value>25</Value>
     <WeaponSize>10000</WeaponSize>
@@ -1709,8 +1709,8 @@
   </Item>
   <Item>
     <ID>Workbench</ID>
-    <Name>workbench</Name>
-    <ObtainDescription>Crafted at a Crude Workbench or a Carpenter's workshop</ObtainDescription>
+    <Name>mesa de trabajo</Name>
+    <ObtainDescription>Creado en una mesa de trabajo o en una carpinteria</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -1719,8 +1719,8 @@
   </Item>
   <Item>
     <ID>Chisel</ID>
-    <Name>chisel</Name>
-    <ObtainDescription>Crafted at a Crude Workbench or a Stonemason's workshop</ObtainDescription>
+    <Name>cincel</Name>
+    <ObtainDescription>Creado en una mesa de trabajo o en un taller de piedra</ObtainDescription>
     
     <BaseValue>1</BaseValue>
     <HasQuality>false</HasQuality>
@@ -1731,7 +1731,7 @@
   </Item>
   <Item>
     <ID>Stick</ID>
-    <Name>stick</Name>
+    <Name>palo</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -1742,7 +1742,7 @@
   </Item>
   <Item>
     <ID>Loom</ID>
-    <Name>loom</Name>
+    <Name>telar</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
@@ -1756,7 +1756,7 @@
   </Item>
   <Item>
     <ID>Hilt</ID>
-    <Name>hilt</Name>
+    <Name>empunyadura</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -1767,8 +1767,8 @@
   </Item>
   <Item>
     <ID>StoneKnifeBlade</ID>
-    <Name>knife blade</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>hoja de cuchillo</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -1778,8 +1778,8 @@
   </Item>
   <Item>
     <ID>Knife</ID>
-    <Name>knife</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>cuchillo</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1805,8 +1805,8 @@
   </Item>
   <Item>
     <ID>Needle</ID>
-    <Name>bone needle</Name>
-    <ObtainDescription>Crafted in a Bonecarver's workshop</ObtainDescription>
+    <Name>aguja de hueso</Name>
+    <ObtainDescription>Creado en un taller de hueso</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -1816,8 +1816,8 @@
   </Item>
   <Item>
     <ID>Sawblade</ID>
-    <Name>sawblade</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>hoja de sierra</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -1826,8 +1826,8 @@
   </Item>
   <Item>
     <ID>Hearth</ID>
-    <Name>hearth</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>chimenea</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -1836,8 +1836,8 @@
   </Item>
   <Item>
     <ID>Mold</ID>
-    <Name>mold</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>molde</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -1846,8 +1846,8 @@
   </Item>
   <Item>
     <ID>Furnace</ID>
-    <Name>furnace</Name>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <Name>horno</Name>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -1856,7 +1856,7 @@
   </Item>
   <Item>
     <ID>Bellows</ID>
-    <Name>bellows</Name>
+    <Name>fuelle</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
@@ -1870,8 +1870,8 @@
   </Item>
   <Item>
     <ID>Anvil</ID>
-    <Name>anvil</Name>
-    <ObtainDescription>Crafted in a Forge</ObtainDescription>
+    <Name>yunque</Name>
+    <ObtainDescription>Creado en una forja</ObtainDescription>
     
     <WeaponSize>100</WeaponSize>
     <SpriteID>
@@ -1880,8 +1880,8 @@
   </Item>
   <Item>
     <ID>CuttingWheel</ID>
-    <Name>cutting wheel</Name>
-    <ObtainDescription>Crafted in a Blacksmith's workshop</ObtainDescription>
+    <Name>rueda de corte</Name>
+    <ObtainDescription>Creado en una herreria</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -1890,8 +1890,8 @@
   </Item>
   <Item>
     <ID>File</ID>
-    <Name>file</Name>
-    <ObtainDescription>Crafted in a Blacksmith's workshop</ObtainDescription>
+    <Name>lima</Name>
+    <ObtainDescription>Creado en una herreria</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -1900,8 +1900,8 @@
   </Item>
   <Item>
     <ID>BallPeenHammer</ID>
-    <Name>ball-peen hammer</Name>
-    <ObtainDescription>Crafted in a Blacksmith's workshop</ObtainDescription>
+    <Name>bola de martillo</Name>
+    <ObtainDescription>Creado en una herreria</ObtainDescription>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1933,8 +1933,8 @@
   </Item>
   <Item>
     <ID>Wrench</ID>
-    <Name>wrench</Name>
-    <ObtainDescription>Crafted in a Machine Shop</ObtainDescription>
+    <Name>llave</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1955,7 +1955,7 @@
   </Item>
   <Item>
     <ID>Haft</ID>
-    <Name>haft</Name>
+    <Name>mango</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -1977,8 +1977,8 @@
   </Item>
   <Item>
     <ID>Mattress</ID>
-    <Name>mattress</Name>
-    <ObtainDescription>Crafted at a Tailor</ObtainDescription>
+    <Name>colchon</Name>
+    <ObtainDescription>Creado en una sastreria</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -1987,7 +1987,7 @@
   </Item>
   <Item>
     <ID>BedFrame</ID>
-    <Name>bed frame</Name>
+    <Name>cabecero de cama</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>2000</WeaponSize>
@@ -1997,7 +1997,7 @@
   </Item>
   <Item>
     <ID>FancyBedFrame</ID>
-    <Name>four poster bed frame</Name>
+    <Name>cabecero de cama con dosel</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>2000</WeaponSize>
@@ -2010,9 +2010,9 @@
   </Item>
   <Item>
     <ID>Straw</ID>
-    <Name>straw</Name>
+    <Name>paja</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Harvested from a wheat farm</ObtainDescription>
+    <ObtainDescription>Obtenido en un cultivo de trigo</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -2038,8 +2038,8 @@
   </Item>
   <Item>
     <ID>String</ID>
-    <Name>string</Name>
-    <ObtainDescription>Crafted at a Tailor</ObtainDescription>
+    <Name>cuerda</Name>
+    <ObtainDescription>Creado en una sastreria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -2049,8 +2049,8 @@
   </Item>
   <Item>
     <ID>Padding</ID>
-    <Name>padding</Name>
-    <ObtainDescription>Crafted at a Tailor</ObtainDescription>
+    <Name>relleno</Name>
+    <ObtainDescription>Creado en una sastreria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -2060,8 +2060,8 @@
   </Item>
   <Item>
     <ID>PickaxeHead</ID>
-    <Name>pickaxe head</Name>
-    <ObtainDescription>Crafted in a Blacksmith's workshop</ObtainDescription>
+    <Name>cabeza de pico</Name>
+    <ObtainDescription>Creado en una herreria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2071,8 +2071,8 @@
   </Item>
   <Item>
     <ID>FellingAxeHead</ID>
-    <Name>felling axe head</Name>
-    <ObtainDescription>Crafted aint a Blacksmith's workshop</ObtainDescription>
+    <Name>cabeza de hacha de talar</Name>
+    <ObtainDescription>Creado en una herreria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2082,8 +2082,8 @@
   </Item>
   <Item>
     <ID>SwordBlade</ID>
-    <Name>sword blade</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>hoja de espada</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2093,8 +2093,8 @@
   </Item>
   <Item>
     <ID>HandAxeHead</ID>
-    <Name>hand axe head</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>cabeza de hacha de mano</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2104,8 +2104,8 @@
   </Item>
   <Item>
     <ID>HammerHead</ID>
-    <Name>hammer head</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>cabeza de martillo</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2115,8 +2115,8 @@
   </Item>
   <Item>
     <ID>ClaymoreBlade</ID>
-    <Name>claymore blade</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>hoja de espadon</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2126,8 +2126,8 @@
   </Item>
   <Item>
     <ID>BattleAxeHead</ID>
-    <Name>battle axe head</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>cabeza de hacha de guerra</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2137,8 +2137,8 @@
   </Item>
   <Item>
     <ID>WarhammerHead</ID>
-    <Name>warhammer head</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>cabeza de martilo de guerra</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2148,8 +2148,8 @@
   </Item>
   <Item>
     <ID>ShieldBoss</ID>
-    <Name>shield boss</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>Parte de escudo</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2159,8 +2159,8 @@
   </Item>
   <Item>
     <ID>ShieldBacking</ID>
-    <Name>shield backing</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>respaldo de escudo</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2170,8 +2170,8 @@
   </Item>
   <Item>
     <ID>LeatherStrap</ID>
-    <Name>leather strap</Name>
-    <ObtainDescription>Crafted in a Leatherworker's workshop</ObtainDescription>
+    <Name>correa de cuero</Name>
+    <ObtainDescription>Creado en una peleteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -2182,7 +2182,7 @@
   <Item>
     <ID>LeatherArmorPanel</ID>
     <Name>leather panel</Name>
-    <ObtainDescription>Crafted in a Leatherworker's workshop</ObtainDescription>
+    <ObtainDescription>Creado en una peleteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2192,8 +2192,8 @@
   </Item>
   <Item>
     <ID>ArmorPlate</ID>
-    <Name>armor plate</Name>
-    <ObtainDescription>Crafted in an Armorer's workshop</ObtainDescription>
+    <Name>blindaje</Name>
+    <ObtainDescription>Creado en una armeria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>20</WeaponSize>
@@ -2203,7 +2203,7 @@
   </Item>
   <Item>
     <ID>PistolStock</ID>
-    <Name>pistol stock</Name>
+    <Name>estructura de pistola</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2214,8 +2214,8 @@
   </Item>
   <Item>
     <ID>PistolBarrel</ID>
-    <Name>pistol barrel</Name>
-    <ObtainDescription>Crafted in a Machine Shop</ObtainDescription>
+    <Name>mecanismo de pistola</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2225,7 +2225,7 @@
   </Item>
   <Item>
     <ID>BlunderbussStock</ID>
-    <Name>blunderbuss stock</Name>
+    <Name>estructura de trabuco</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2236,8 +2236,8 @@
   </Item>
   <Item>
     <ID>BlunderbussBarrel</ID>
-    <Name>blunderbuss barrel</Name>
-    <ObtainDescription>Crafted in a Machine Shop</ObtainDescription>
+    <Name>mecanismo de trabuco</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2247,8 +2247,8 @@
   </Item>
   <Item>
     <ID>CrossbowBow</ID>
-    <Name>crossbow bow</Name>
-    <ObtainDescription>Crafted in a Machine Shop</ObtainDescription>
+    <Name>mecanismo de ballesta</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2258,7 +2258,7 @@
   </Item>
   <Item>
     <ID>CrossbowStock</ID>
-    <Name>crossbow stock</Name>
+    <Name>estructura de ballesta</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2269,7 +2269,7 @@
   </Item>
   <Item>
     <ID>TrapBase</ID>
-    <Name>trap base</Name>
+    <Name>base de trampa</Name>
     <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <Value>3</Value>
@@ -2284,8 +2284,8 @@
   </Item>
   <Item>
     <ID>Spike</ID>
-    <Name>spike</Name>
-    <ObtainDescription>Crafted in a Machine Shop</ObtainDescription>
+    <Name>espinas</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>50</WeaponSize>
@@ -2295,7 +2295,7 @@
   </Item>
   <Item>
     <ID>MechanismBase</ID>
-    <Name>mechanism base</Name>
+    <Name>base de mecanismo</Name>
     <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2310,7 +2310,7 @@
   </Item>
   <Item>
     <ID>WindmillBlade</ID>
-    <Name>windmill blade</Name>
+    <Name>molino de cuchillas</Name>
     <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2322,7 +2322,7 @@
   </Item>
   <Item>
     <ID>Cylinder</ID>
-    <Name>cylinder</Name>
+    <Name>cilindro</Name>
     <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
@@ -2333,7 +2333,7 @@
   </Item>
   <Item>
     <ID>TrainingDummy</ID>
-    <Name>training dummy</Name>
+    <Name>maniqui de entrenamiento</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>50</WeaponSize>
@@ -2343,7 +2343,7 @@
   </Item>
   <Item>
     <ID>Dresser</ID>
-    <Name>dresser</Name>
+    <Name>vestidor</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>10</Value>
@@ -2354,7 +2354,7 @@
   </Item>
   <Item>
     <ID>Cabinet</ID>
-    <Name>cabinet</Name>
+    <Name>gabinete</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>10</Value>
@@ -2365,7 +2365,7 @@
   </Item>
   <Item>
     <ID>SkullHelmet</ID>
-    <Name>skull helmet</Name>
+    <Name>casco de craneo</Name>
     
     <CombatRatingModifier>1</CombatRatingModifier>
     <EquipSlot>Head</EquipSlot>
@@ -2378,7 +2378,7 @@
   </Item>
   <Item>
     <ID>BoneShirt</ID>
-    <Name>bone shirt</Name>
+    <Name>camisa de hueso</Name>
     
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Body</EquipSlot>
@@ -2391,8 +2391,8 @@
   </Item>
   <Item>
     <ID>Screw</ID>
-    <Name>screw</Name>
-    <ObtainDescription>Crafted in a Machine shop</ObtainDescription>
+    <Name>tornillo</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>30</WeaponSize>
     <SpriteID>
@@ -2402,7 +2402,7 @@
   <Item>
     <ID>WornHelmet</ID>
     <Prefix>worn</Prefix>
-    <Name>helmet</Name>
+    <Name>casco</Name>
     
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Head</EquipSlot>
@@ -2421,7 +2421,7 @@
   <Item>
     <ID>WornBreastplate</ID>
     <Prefix>worn</Prefix>
-    <Name>breastplate</Name>
+    <Name>coraza</Name>
     
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Body</EquipSlot>
@@ -2440,7 +2440,7 @@
   <Item>
     <ID>WornPauldron</ID>
     <Prefix>worn</Prefix>
-    <Name>pauldron</Name>
+    <Name>hombrera</Name>
     
     <CombatRatingModifier>1</CombatRatingModifier>
     <EquipSlot>Arm</EquipSlot>
@@ -2459,7 +2459,7 @@
   <Item>
     <ID>WornGreave</ID>
     <Prefix>worn</Prefix>
-    <Name>greave</Name>
+    <Name>greba</Name>
     
     <CombatRatingModifier>1</CombatRatingModifier>
     <EquipSlot>Leg</EquipSlot>
@@ -2476,7 +2476,7 @@
   <Item>
     <ID>WornGauntlet</ID>
     <Prefix>worn</Prefix>
-    <Name>gauntlet</Name>
+    <Name>guantelete</Name>
     
     <CombatRatingModifier>0.5</CombatRatingModifier>
     <EquipSlot>Glove</EquipSlot>
@@ -2495,7 +2495,7 @@
   <Item>
     <ID>WornBoot</ID>
     <Prefix>worn</Prefix>
-    <Name>boot</Name>
+    <Name>bota</Name>
     
     <CombatRatingModifier>0.5</CombatRatingModifier>
     <EquipSlot>Foot</EquipSlot>
@@ -2514,7 +2514,7 @@
   <Item>
     <ID>WornSword</ID>
     <Prefix>worn</Prefix>
-    <Name>sword</Name>
+    <Name>espada</Name>
     
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -2569,7 +2569,7 @@
   <Item>
     <ID>WornHandAxe</ID>
     <Prefix>worn</Prefix>
-    <Name>hand axe</Name>
+    <Name>hacha de mano</Name>
     
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -2610,7 +2610,7 @@
   <Item>
     <ID>WornHammer</ID>
     <Prefix>worn</Prefix>
-    <Name>hammer</Name>
+    <Name>martillo</Name>
     
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -2651,7 +2651,7 @@
   <Item>
     <ID>WornClaymore</ID>
     <Prefix>worn</Prefix>
-    <Name>claymore</Name>
+    <Name>espadon</Name>
     
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
@@ -2695,7 +2695,7 @@
   <Item>
     <ID>WornBattleAxe</ID>
     <Prefix>worn</Prefix>
-    <Name>battle axe</Name>
+    <Name>hacha de batalla</Name>
     
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
@@ -2736,7 +2736,7 @@
   <Item>
     <ID>WornWarhammer</ID>
     <Prefix>worn</Prefix>
-    <Name>warhammer</Name>
+    <Name>martillo de guerra</Name>
     
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
@@ -2778,7 +2778,7 @@
   <Item>
     <ID>WornShield</ID>
     <Prefix>worn</Prefix>
-    <Name>shield</Name>
+    <Name>escudo</Name>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -2821,8 +2821,8 @@
   </Item>
   <Item>
     <ID>MetalSliver</ID>
-    <Name>sliver</Name>
-    <ObtainDescription>Crafted in a Smelter</ObtainDescription>
+    <Name>fragmento</Name>
+    <ObtainDescription>Creado en una fundicion</ObtainDescription>
     <GroupName>metal sliver</GroupName>
     
     <Value>0.2</Value>
@@ -2836,7 +2836,7 @@
     <ID>Trough</ID>
     <Name>trough</Name>
     <Description>[AN_ITEM_NAME].  Used to feed pastured animals.</Description>
-    <ObtainDescription>Crafted in a Stonemason's workshop</ObtainDescription>
+    <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>200</WeaponSize>
     <SpriteID>
@@ -2845,8 +2845,7 @@
   </Item>
   <Item>
     <ID>Mushroom</ID>
-    <ObtainDescription>Grown in a farm or
-  foraged underground</ObtainDescription>
+    <ObtainDescription>Crecido en un cultivo</ObtainDescription>
     <GroupName>mushroom</GroupName>
     <Effect>
       <Effect>Food</Effect>
@@ -2860,9 +2859,9 @@
   </Item>
   <Item>
     <ID>Cheese</ID>
-    <Name>cheese</Name>
+    <Name>queso</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Made in a Kitchen.</ObtainDescription>
+    <ObtainDescription>Hecho en una cocina.</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>10</Amount>
@@ -2874,9 +2873,9 @@
   </Item>
   <Item>
     <ID>CheeseOmelette</ID>
-    <Name>cheese omelette</Name>
+    <Name>tortilla de queso</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Made in a Kitchen.</ObtainDescription>
+    <ObtainDescription>Hecho en una cocina.</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>25</Amount>
@@ -2888,9 +2887,9 @@
   </Item>
   <Item>
     <ID>SausageOmelette</ID>
-    <Name>sausage omelette</Name>
+    <Name>tortilla de salchichas</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Made in a Kitchen.</ObtainDescription>
+    <ObtainDescription>Hecho en una cocina.</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>45</Amount>
@@ -2902,9 +2901,9 @@
   </Item>
   <Item>
     <ID>MushroomOmelette</ID>
-    <Name>omelette</Name>
+    <Name>tortilla</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Made in a Kitchen.</ObtainDescription>
+    <ObtainDescription>Hecho en una cocina.</ObtainDescription>
     <GroupName>mushroom omelette</GroupName>
     <Effect>
       <Effect>Food</Effect>
@@ -2917,9 +2916,9 @@
   </Item>
   <Item>
     <ID>Tea</ID>
-    <Name>tea</Name>
+    <Name>te</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Brewed in a Distillery</ObtainDescription>
+    <ObtainDescription>Elaborado en una destileria</ObtainDescription>
     <Effect>
       <Effect>Drink</Effect>
       <Amount>25</Amount>
@@ -2931,8 +2930,8 @@
   </Item>
   <Item>
     <ID>Wheelbarrow</ID>
-    <Name>wheelbarrow</Name>
-    <Description>[AN_ITEM_NAME].  Used to haul various items.</Description>
+    <Name>carretilla</Name>
+    <Description>[AN_ITEM_NAME].  Usado para transportar.</Description>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
@@ -2951,7 +2950,7 @@
   </Item>
   <Item>
     <ID>AlarmBell</ID>
-    <Name>alarm bell</Name>
+    <Name>alarma</Name>
     <Description></Description>
     
     <WeaponSize>100</WeaponSize>
@@ -2966,7 +2965,7 @@
   </Item>
   <Item>
     <ID>WoodenShield</ID>
-    <Name>shield</Name>
+    <Name>escudo</Name>
     <GroupName>wooden shield</GroupName>
     
     <Value>20</Value>
@@ -3011,7 +3010,7 @@
   </Item>
   <Item>
     <ID>TowerShield</ID>
-    <Name>tower shield</Name>
+    <Name>gran escudo</Name>
     
     <TwoHanded>true</TwoHanded>
     <Value>40</Value>
@@ -3056,7 +3055,7 @@
   </Item>
   <Item>
     <ID>StoneSword</ID>
-    <Name>sword</Name>
+    <Name>espada</Name>
     <GroupName>stone sword</GroupName>
     
     <Value>20</Value>
@@ -3112,7 +3111,7 @@
   </Item>
   <Item>
     <ID>StoneHandAxe</ID>
-    <Name>hand axe</Name>
+    <Name>hacha de mano</Name>
     <GroupName>stone hand axe</GroupName>
     
     <Value>20</Value>
@@ -3154,7 +3153,7 @@
   </Item>
   <Item>
     <ID>StoneHammer</ID>
-    <Name>hammer</Name>
+    <Name>martillo</Name>
     <GroupName>stone hammer</GroupName>
     
     <Value>20</Value>
@@ -3196,8 +3195,8 @@
   </Item>
   <Item>
     <ID>TowerShieldBacking</ID>
-    <Name>tower shield backing</Name>
-    <ObtainDescription>Crafted in a Weaponsmith's workshop</ObtainDescription>
+    <Name>respaldo de gran escudo</Name>
+    <ObtainDescription>Creado en un taller de armas</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -3211,8 +3210,8 @@
   </Item>
   <Item>
     <ID>Bucket</ID>
-    <Name>bucket</Name>
-    <Description>[AN_ITEM_NAME].  Used to haul liquids.</Description>
+    <Name>cubo</Name>
+    <Description>[AN_ITEM_NAME].  Usado para transportar liquidos.</Description>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     <Effect>
       <Effect>Storage</Effect>
@@ -3226,8 +3225,8 @@
   </Item>
   <Item>
     <ID>Sack</ID>
-    <Name>sack</Name>
-    <Description>[AN_ITEM_NAME].  Used to haul various items.</Description>
+    <Name>saco</Name>
+    <Description>[AN_ITEM_NAME].  Usado para transportar.</Description>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>16</Amount>
@@ -3263,8 +3262,8 @@
   </Item>
   <Item>
     <ID>Tile</ID>
-    <Name>tile</Name>
-    <ObtainDescription>Fired in a Kiln</ObtainDescription>
+    <Name>baldosa</Name>
+    <ObtainDescription>Creado en un horno de ceramica</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -3274,8 +3273,8 @@
   </Item>
   <Item>
     <ID>GlassPane</ID>
-    <Name>pane</Name>
-    <ObtainDescription>Fired in a Kiln</ObtainDescription>
+    <Name>cristal</Name>
+    <ObtainDescription>Creado en un horno de ceramica</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -3285,7 +3284,7 @@
   </Item>
   <Item>
     <ID>ArtificialArm</ID>
-    <Name>arm</Name>
+    <Name>brazo</Name>
     <GroupName>prosthetic arm</GroupName>
     
     <SpriteID>
@@ -3299,7 +3298,7 @@
   </Item>
   <Item>
     <ID>ArtificialHand</ID>
-    <Name>hand</Name>
+    <Name>mano</Name>
     <GroupName>prosthetic hand</GroupName>
     
     <SpriteID>
@@ -3309,7 +3308,7 @@
   </Item>
   <Item>
     <ID>ArtificialLeg</ID>
-    <Name>leg</Name>
+    <Name>pierna</Name>
     <GroupName>prosthetic leg</GroupName>
     
     <SpriteID>
@@ -3319,7 +3318,7 @@
   </Item>
   <Item>
     <ID>ArtificialFoot</ID>
-    <Name>foot</Name>
+    <Name>pie</Name>
     <GroupName>prosthetic foot</GroupName>
     
     <SpriteID>
@@ -3329,7 +3328,7 @@
   </Item>
   <Item>
     <ID>Automaton</ID>
-    <Name>automaton</Name>
+    <Name>automata</Name>
     <Value>6</Value>
     <HasQuality>false</HasQuality>
     <SpriteID>
@@ -3338,8 +3337,8 @@
   </Item>
   <Item>
     <ID>GolemCore</ID>
-    <Name>golem core</Name>
-    <ObtainDescription>Occasionally found on golems</ObtainDescription>
+    <Name>nucleo de golem</Name>
+    <ObtainDescription>Ocasionalmente encontrado en golems</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <SpriteID>
@@ -3348,7 +3347,7 @@
   </Item>
   <Item>
     <ID>AutomatonCore</ID>
-    <Name>core</Name>
+    <Name>nucleo</Name>
     <GroupName>automaton core</GroupName>
     
     <HasQuality>false</HasQuality>

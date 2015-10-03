@@ -12,8 +12,8 @@
   </Item>
   <Item>
     <ID>Masonry</ID>
-    <Name>Masonería</Name>
-    <Title>Masón</Title>
+    <Name>Masoneria</Name>
+    <Title>Mason</Title>
   </Item>
   <Item>
     <ID>Stonecarving</ID>
@@ -22,12 +22,12 @@
   </Item>
   <Item>
     <ID>Woodcutting</ID>
-    <Name>Leñar</Name>
-    <Title>Leñador</Title>
+    <Name>Lenyar</Name>
+    <Title>Lenyador</Title>
   </Item>
   <Item>
     <ID>Carpentry</ID>
-    <Name>Carpintería</Name>
+    <Name>Carpinteria</Name>
     <Title>Carpintero</Title>
   </Item>
   <Item>
@@ -37,27 +37,27 @@
   </Item>
   <Item>
     <ID>Smelting</ID>
-    <Name>Fundición</Name>
+    <Name>Fundicion</Name>
     <Title>Fundidor</Title>
   </Item>
   <Item>
     <ID>Blacksmithing</ID>
-    <Name>Herrería</Name>
+    <Name>Herreria</Name>
     <Title>Herrero</Title>
   </Item>
   <Item>
     <ID>Metalworking</ID>
     <Name>Metalurgia</Name>
-    <Title>Metalúrgico</Title>
+    <Title>Metalurgico</Title>
   </Item>
   <Item>
     <ID>WeaponCrafting</ID>
-    <Name>Artesanía de armas</Name>
-    <Title>Artesano de armas</Title>
+    <Name>Creacion de armas</Name>
+    <Title>Creador de armas</Title>
   </Item>
   <Item>
     <ID>ArmorCrafting</ID>
-    <Name>Armería</Name>
+    <Name>Armeria</Name>
     <Title>Armero</Title>
   </Item>
   <Item>
@@ -67,7 +67,7 @@
   </Item>
   <Item>
     <ID>JewelryMaking</ID>
-    <Name>Joyería</Name>
+    <Name>Joyeria</Name>
     <Title>Joyero</Title>
   </Item>
   <Item>
@@ -77,17 +77,17 @@
   </Item>
   <Item>
     <ID>Tailoring</ID>
-    <Name>Sastrería</Name>
+    <Name>Sastreria</Name>
     <Title>Sastre</Title>
   </Item>
   <Item>
     <ID>Pottery</ID>
-    <Name>Cerámica</Name>
+    <Name>Ceramica</Name>
     <Title>Ceramista</Title>
   </Item>
   <Item>
     <ID>Leatherworking</ID>
-    <Name>Peletería</Name>
+    <Name>Peleteria</Name>
     <Title>Peletero</Title>
   </Item>
   <Item>
@@ -102,22 +102,22 @@
   </Item>
   <Item>
     <ID>Engineering</ID>
-    <Name>Ingeniería</Name>
+    <Name>Ingenieria</Name>
     <Title>Ingeniero</Title>
   </Item>
   <Item>
     <ID>Mechanic</ID>
-    <Name>Mecánica</Name>
-    <Title>Mecánico</Title>
+    <Name>Mecanica</Name>
+    <Title>Mecanico</Title>
   </Item>
   <Item>
     <ID>AnimalHusbandry</ID>
-    <Name>Ganadería</Name>
+    <Name>Ganaderia</Name>
     <Title>Ganadero</Title>
   </Item>
   <Item>
     <ID>Butchery</ID>
-    <Name>Carnicería</Name>
+    <Name>Carniceria</Name>
     <Title>Carnicero</Title>
   </Item>
   <Item>
@@ -137,12 +137,12 @@
   </Item>
   <Item>
     <ID>Brewing</ID>
-    <Name>Fabricación de cerveza</Name>
+    <Name>Fabricacion de cerveza</Name>
     <Title>Cervecero</Title>
   </Item>
   <Item>
     <ID>Construction</ID>
-    <Name>Constructión</Name>
+    <Name>Construction</Name>
     <Title>Constructor</Title>
   </Item>
   <Item>
@@ -207,8 +207,8 @@
   </Item>
   <Item>
     <ID>Medic</ID>
-    <Name>Médico</Name>
-    <Title>Médico</Title>
+    <Name>Medico</Name>
+    <Title>Medico</Title>
   </Item>
   <Item>
     <ID>Caretaking</ID>

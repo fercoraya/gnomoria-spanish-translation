@@ -96,14 +96,14 @@
 	<MenuItem>
 	  <Text>Agricultura</Text>
 	  <MenuItem>
-		<Text>Granga</Text>
-		<ToolTip>Cultivar</ToolTip>
+		<Text>Cultivo</Text>
+		<ToolTip>Cultivar frutas y verduras</ToolTip>
 		<Action>
 		  <Type>CreateFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Granja subterranea</Text>
+		<Text>Cultivo subterraneo</Text>
 		<ToolTip>Cultivar bajo tierra</ToolTip>
 		<Action>
 		  <Type>CreateUndergroundFarm</Type>
@@ -738,14 +738,14 @@
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Granga</Text>
-		<ToolTip>Cultivar</ToolTip>
+		<Text>Cultivo</Text>
+		<ToolTip>Cultivar frutas y verduras</ToolTip>
 		<Action>
 		  <Type>CreateFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Granja subterranea</Text>
+		<Text>Cultivo subterraneo</Text>
 		<ToolTip>Cultivar bajo tierra</ToolTip>
 		<Action>
 		  <Type>CreateUndergroundFarm</Type>
