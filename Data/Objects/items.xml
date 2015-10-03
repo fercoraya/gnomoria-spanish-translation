@@ -79,8 +79,8 @@
   -->
   <Item>
     <ID>RawSoil</ID>
-    <Name>clump</Name>
-    <ObtainDescription>Raw soil found naturally</ObtainDescription>
+    <Name>suelo</Name>
+    <ObtainDescription>Suelo comun</ObtainDescription>
     
     <Value>0</Value>
     <HasQuality>false</HasQuality>
@@ -91,7 +91,7 @@
   <Item>
     <ID>RawStone</ID>
     <Prefix>raw</Prefix>
-    <ObtainDescription>Raw stone found naturally</ObtainDescription>
+    <ObtainDescription>Piedra comun</ObtainDescription>
     <GroupName>stone</GroupName>
     
     <Value>0</Value>
@@ -103,8 +103,8 @@
   </Item>
   <Item>
     <ID>RawWood</ID>
-    <Name>log</Name>
-    <ObtainDescription>Obtained by felling trees</ObtainDescription>
+    <Name>tronco</Name>
+    <ObtainDescription>Obtenido de arboles</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>1000</WeaponSize>
@@ -115,8 +115,7 @@
   <Item>
     <ID>RawCoal</ID>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Found in stone walls and
-  crafted in a Furnace from logs</ObtainDescription>
+    <ObtainDescription>Extraido de los troncos en el horno</ObtainDescription>
     <GroupName>coal</GroupName>
     
     <HasQuality>false</HasQuality>
@@ -129,7 +128,7 @@
     <ID>RawOre</ID>
     <Name>ore</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Found in stone walls</ObtainDescription>
+    <ObtainDescription>Se encuentra en los muros de piedra</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -140,7 +139,7 @@
   <Item>
     <ID>RawGem</ID>
     <Prefix>raw</Prefix>
-    <ObtainDescription>Found in stone walls</ObtainDescription>
+    <ObtainDescription>Se encuentra en los muros de piedra</ObtainDescription>
     <GroupName>gem</GroupName>
     <HasQuality>false</HasQuality>
     <SpriteID>
@@ -150,8 +149,7 @@
   <Item>
     <ID>RawCloth</ID>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Grown from cotton or
-  sheared from alpaca</ObtainDescription>
+    <ObtainDescription>Se obtiene del algodon o de la alpaca</ObtainDescription>
     <GroupName>fiber</GroupName>
     <Value>1</Value>
     <HasQuality>false</HasQuality>
@@ -163,8 +161,7 @@
   <Item>
     <ID>RawHide</ID>
     <Name>hide</Name>
-    <ObtainDescription>Cut from animals
-  at a Butcher Shop</ObtainDescription>
+    <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <SpriteID>
       <SpriteID>RawHide</SpriteID>
@@ -172,7 +169,7 @@
   </Item>
   <Item>
     <ID>Seed</ID>
-    <Name>seed</Name>
+    <Name>semilla</Name>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -194,8 +191,8 @@
   </Item>
   <Item>
     <ID>Clipping</ID>
-    <Name>clipping</Name>
-    <ObtainDescription>Cut from trees</ObtainDescription>
+    <Name>recorte</Name>
+    <ObtainDescription>Cortado de un arbol</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -204,9 +201,9 @@
   </Item>
   <Item>
     <ID>Wheat</ID>
-    <Name>grain</Name>
+    <Name>grano</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Grown in a farm</ObtainDescription>
+    <ObtainDescription>Cultivado en una granja</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -218,7 +215,7 @@
     <ID>Fruit</ID>
     <ObtainDescription>Grown in a farm or
   foraged from trees</ObtainDescription>
-    <GroupName>fruit</GroupName>
+    <GroupName>fruta</GroupName>
     <Effect>
       <Effect>Food</Effect>
       <Amount>15</Amount>
@@ -243,9 +240,9 @@
   </Item>
   <Item>
     <ID>Egg</ID>
-    <Name>egg</Name>
+    <Name>huevo</Name>
     <Description>A raw [ITEM_NAME].</Description>
-    <ObtainDescription>Gathered from animals</ObtainDescription>      
+    <ObtainDescription>Obtenido de animales</ObtainDescription>      
     <Effect>
       <Effect>Food</Effect>
       <Amount>15</Amount>
@@ -259,8 +256,8 @@
   <Item>
     <ID>Bread</ID>
     <Prefix>loaf of</Prefix>
-    <Name>bread</Name>
-    <ObtainDescription>Baked in a Kitchen</ObtainDescription>
+    <Name>pan</Name>
+    <ObtainDescription>Al horno en una cocina</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>20</Amount>
@@ -273,10 +270,9 @@
   </Item>
   <Item>
     <ID>Meat</ID>
-    <Name>meat</Name>
+    <Name>carne</Name>
     <Description>Raw [ITEM_NAME].</Description>
-    <ObtainDescription>Cut from animals
-  at a Butcher Shop</ObtainDescription>
+    <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>5</Amount>
@@ -288,8 +284,8 @@
   </Item>
   <Item>
     <ID>Sausage</ID>
-    <Name>sausage</Name>
-    <ObtainDescription>Cooked in a kitchen</ObtainDescription>
+    <Name>salchicha</Name>
+    <ObtainDescription>Hecho en la cocina</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>20</Amount>
@@ -302,7 +298,7 @@
     <ID>Sandwich</ID>
     <Name>sandwich</Name>
     <Description>[AN_ITEM_NAME].  The pinnacle of culinary art.</Description>
-    <ObtainDescription>Made in a Kitchen</ObtainDescription>
+    <ObtainDescription>Hecho en la cocina</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
       <Amount>50</Amount>
@@ -315,9 +311,9 @@
   </Item>
   <Item>
     <ID>Milk</ID>
-    <Name>milk</Name>
+    <Name>leche</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Milked from animals</ObtainDescription>
+    <ObtainDescription>Obtenido de algunos animales</ObtainDescription>
     <Effect>
       <Effect>Drink</Effect>
       <Amount>25</Amount>
@@ -329,9 +325,9 @@
   </Item>
   <Item>
     <ID>Wine</ID>
-    <Name>wine</Name>
+    <Name>vino</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Made in a Distillery</ObtainDescription>
+    <ObtainDescription>Hecho en la destileria</ObtainDescription>
     <Effect>
       <Effect>Drink</Effect>
       <Amount>50</Amount>
@@ -343,9 +339,9 @@
   </Item>
   <Item>
     <ID>Beer</ID>
-    <Name>beer</Name>
+    <Name>cerveza</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Brewed in a Distillery</ObtainDescription>
+    <ObtainDescription>Hecho en la destileria</ObtainDescription>
     <Effect>
       <Effect>Drink</Effect>
       <Amount>50</Amount>
@@ -358,9 +354,8 @@
   </Item>
   <Item>
     <ID>Bone</ID>
-    <Name>bone</Name>
-    <ObtainDescription>Taken from animals
-  at a Butcher Shop</ObtainDescription>
+    <Name>hueso</Name>
+    <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -370,9 +365,8 @@
   </Item>
   <Item>
     <ID>Skull</ID>
-    <Name>skull</Name>
-    <ObtainDescription>Taken from animals
-  at a Butcher's workshop</ObtainDescription>
+    <Name>calavera</Name>
+    <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>

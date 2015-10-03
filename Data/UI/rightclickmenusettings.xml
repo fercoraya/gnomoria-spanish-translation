@@ -14,7 +14,7 @@
 			<Text>Muro</Text>
 			<ToolTip>Quitar Muro</ToolTip>
 			<Action>
-			  <Type>Minar</Type>
+			  <Type>Mine</Type>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
