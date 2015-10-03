@@ -25,8 +25,8 @@
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Rampa hacia abajo</Text>
-			<ToolTip>Mina el muro para hacer una escalera hacia abajo</ToolTip>
+			<Text>Rampa hacia arriba</Text>
+			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>
 			<Action>
 			  <Type>MineRampUp</Type>
 			</Action>

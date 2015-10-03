@@ -42,8 +42,8 @@
   <!--Stonecutter-->
   <Item>
     <ID>Stonecutter</ID>
-    <Name>Stonecutter</Name>
-    <Description>Cut stone into blocks.</Description>
+    <Name>Cortadora de piedra</Name>
+    <Description>Piedra cortada en bloques.</Description>
     <AudioEventClick>STONE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -256,8 +256,8 @@
   <!--Sawmill-->
   <Item>
     <ID>Woodcutter</ID>
-    <Name>Sawmill</Name>
-    <Description>Cut logs into planks.</Description>
+    <Name>Aserradero</Name>
+    <Description>Cortar troncos en tablones.</Description>
     <AudioEventClick>WOOD_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -364,8 +364,8 @@
   <!--Forge-->
   <Item>
     <ID>Forge</ID>
-    <Name>Forge</Name>
-    <Description>Melt raw metal ore into bars.</Description>
+    <Name>Forja</Name>
+    <Description>Hacer lingotes de metal</Description>
     <AudioEventClick>FURNACE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -541,8 +541,8 @@
   <!--Gemcutter-->
   <Item>
     <ID>Gemcutter</ID>
-    <Name>Gemcutter</Name>
-    <Description>Cut raw gems.</Description>
+    <Name>Cortada de gemas</Name>
+    <Description>Corta minerales de gemas.</Description>
     <AudioEventClick>GEM_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -710,9 +710,8 @@
   <!--Loom-->
   <Item>
     <ID>Loom</ID>
-    <Name>Loom</Name>
-    <Description>Weave raw fibers into
-  bolts of cloth.</Description>
+    <Name>Telar</Name>
+    <Description>Teje rollos de tela</Description>
     <AudioEventClick>CLOTH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -842,8 +841,8 @@
   <!--Furnace-->
   <Item>
     <ID>Furnace</ID>
-    <Name>Furnace</Name>
-    <Description>Convert logs into coal.</Description>
+    <Name>Horno</Name>
+    <Description>Convierte troncos en carbon.</Description>
     <AudioEventClick>FURNACE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -900,8 +899,8 @@
   <!--Kiln-->
   <Item>
     <ID>Kiln</ID>
-    <Name>Kiln</Name>
-    <Description>Craft bricks and clay goods.</Description>
+    <Name>Horno de arcilla</Name>
+    <Description>Crea ladrillos de arcilla.</Description>
     <AudioEventClick>FURNACE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -1039,8 +1038,8 @@
   <!--Distillery-->
   <Item>
     <ID>Distillery</ID>
-    <Name>Distillery</Name>
-    <Description>Distill wine and spirits.</Description>
+    <Name>Destileria</Name>
+    <Description>Destila vino.</Description>
     <AudioEventClick>DRINK_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -1154,9 +1153,8 @@
   <!--Butcher Shop-->
   <Item>
     <ID>Butcher</ID>
-    <Name>Butcher Shop</Name>
-    <Description>Harvest various parts from
-  dead and live animals.</Description>
+    <Name>Carniceria</Name>
+    <Description>Saca la carne de los animales.</Description>
     <MaxCapacity>40</MaxCapacity>
     <AudioEventClick>FOOD_WORKSHOP</AudioEventClick>
     <Tile>
@@ -1355,8 +1353,8 @@
   <!--Stonemason-->
   <Item>
     <ID>Stonemason</ID>
-    <Name>Stonemason</Name>
-    <Description>Craft furniture from stone blocks.</Description>
+    <Name>Cantera</Name>
+    <Description>Muebles de artesania a partir de bloques de piedra.</Description>
     <AudioEventClick>STONE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -1663,8 +1661,8 @@
   <!--Stonecarver-->
   <Item>
     <ID>Stonecarver</ID>
-    <Name>Stonecarver</Name>
-    <Description>Craft trinkets and statues from stone blocks.</Description>
+    <Name>Tallador de piedra</Name>
+    <Description>Crea estatuas a partir de bloques de piedra.</Description>
     <AudioEventClick>STONE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -1791,8 +1789,8 @@
   <!--Carpenter-->
   <Item>
     <ID>Carpenter</ID>
-    <Name>Carpenter</Name>
-    <Description>Craft wood furniture.</Description>
+    <Name>Carpiteria</Name>
+    <Description>Crea muebles de madera</Description>
     <AudioEventClick>WOOD_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -2209,8 +2207,8 @@
   </Item>
   <Item>
     <ID>Woodcarver</ID>
-    <Name>Woodcarver</Name>
-    <Description>Craft trinkets and statues from wood.</Description>
+    <Name>Tallador de madera</Name>
+    <Description>Crea estatuas de madera.</Description>
     <AudioEventClick>WOOD_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -2324,9 +2322,8 @@
   </Item>
   <Item>
     <ID>Blacksmith</ID>
-    <Name>Blacksmith</Name>
-    <Description>Forge metal bars into tools
-  and various metal items.</Description>
+    <Name>Herreria</Name>
+    <Description>Utiliza lingotes de metal para crear herramientas.</Description>
     <AudioEventClick>BLACKSMITH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -2507,8 +2504,8 @@
   </Item>
   <Item>
     <ID>Metalworker</ID>
-    <Name>Metalworker</Name>
-    <Description>Craft trinkets and statues from metal bars.</Description>
+    <Name>Metalurgia</Name>
+    <Description>Crea estatuas de metal.</Description>
     <AudioEventClick>BLACKSMITH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -2654,8 +2651,8 @@
   </Item>
   <Item>
     <ID>MachineShop</ID>
-    <Name>Machine Shop</Name>
-    <Description>Craft mechanical parts from metal bars.</Description>
+    <Name>Tienda de maquinas</Name>
+    <Description>Crea partes mecanicas.</Description>
     <AudioEventClick>MECHANISM_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -2923,8 +2920,8 @@
   </Item>
   <Item>
     <ID>Jeweler</ID>
-    <Name>Jeweler</Name>
-    <Description>Craft jewelry from metal bars and gems.</Description>
+    <Name>Joyeria</Name>
+    <Description>Crea joyas con lingotes y gemas.</Description>
     <AudioEventClick>GEM_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -3168,9 +3165,8 @@
   </Item>
   <Item>
     <ID>Tailor</ID>
-    <Name>Tailor</Name>
-    <Description>Sew clothes and bags
-  from bolts of cloth.</Description>
+    <Name>Sastreria</Name>
+    <Description>Crea ropa y bolsas a partir rollos de tela.</Description>
     <AudioEventClick>CLOTH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -3448,8 +3444,8 @@
   </Item>
   <Item>
     <ID>Leatherworker</ID>
-    <Name>Leatherworker</Name>
-    <Description>Craft leather armor from hides.</Description>
+    <Name>Peleteria</Name>
+    <Description>Crea armaduras de cuero.</Description>
     <AudioEventClick>LEATHERWORKER_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -3740,8 +3736,8 @@
   </Item>
   <Item>
     <ID>Kitchen</ID>
-    <Name>Kitchen</Name>
-    <Description>Cook food.</Description>
+    <Name>Cocina</Name>
+    <Description>Hace la comida.</Description>
     <AudioEventClick>FOOD_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -4011,8 +4007,8 @@
   
   <Item>
     <ID>Weaponsmith</ID>
-    <Name>Weaponsmith</Name>
-    <Description>Craft weapons.</Description>
+    <Name>Creador de armas</Name>
+    <Description>Crea armas.</Description>
     <AudioEventClick>BLACKSMITH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -4254,8 +4250,8 @@
   </Item>
   <Item>
     <ID>Armorer</ID>
-    <Name>Armorer</Name>
-    <Description>Craft armor.</Description>
+    <Name>Armero</Name>
+    <Description>Crea armaduras.</Description>
     <AudioEventClick>BLACKSMITH_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -4423,9 +4419,8 @@
   </Item>
   <Item>
     <ID>TinkerBench</ID>
-    <Name>Tinker Bench</Name>
-    <Description>Research new mechanisms
-  and mechanical parts.</Description>
+    <Name>Banco calderero</Name>
+    <Description>Investiga mecanismo y piezas mecanicas.</Description>
     <AudioEventClick>MECHANISM_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -4667,8 +4662,8 @@
   </Item>
   <Item>
     <ID>Engineer</ID>
-    <Name>Engineer Shop</Name>
-    <Description>Assemble mechanisms and traps.</Description>
+    <Name>Tienda de ingenieria</Name>
+    <Description>Construye mecanismos y trampas.</Description>
     <AudioEventClick>MECHANISM_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -5212,9 +5207,8 @@
   </Item>
   <Item>
     <ID>MarketStall</ID>
-    <Name>Market Stall</Name>
-    <Description>Used by visiting merchants
-  to trade goods.</Description>
+    <Name>Puesto en el mercado</Name>
+    <Description>Atrae a mercaderes.</Description>
     <AudioEventClick>MARKETSTALL_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>0 -1</Position>
@@ -5315,8 +5309,8 @@
   </Item>
   <Item>
     <ID>TrainingGrounds</ID>
-    <Name>Training Grounds</Name>
-    <Description>Train squads to increase combat skills.</Description>
+    <Name>Campos de entrenamiento</Name>
+    <Description>Aumenta la habilidad en combate.</Description>
     <Tile>
       <Position>-2 -1</Position>
       <Part>
@@ -5348,8 +5342,8 @@
   </Item>
   <Item>
     <ID>CrudeWorkbench</ID>
-    <Name>Crude Workbench</Name>
-    <Description>Cut logs into planks.</Description>
+    <Name>Mesa de trabajo</Name>
+    <Description>Corta troncos en tablas.</Description>
     <AudioEventClick>CRUDE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>0 0</Position>
@@ -5413,8 +5407,8 @@
   </Item>
   <Item>
     <ID>Bonecarver</ID>
-    <Name>Bonecarver</Name>
-    <Description>Carve bone into various items.</Description>
+    <Name>Taller de huesos</Name>
+    <Description>Crea diferentes objetos de los huesos.</Description>
     <AudioEventClick>BONECARVER_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -5662,8 +5656,8 @@
   <!--Smelter-->
   <Item>
     <ID>Smelter</ID>
-    <Name>Smelter</Name>
-    <Description>Melt various items into bars.</Description>
+    <Name>Fundicion</Name>
+    <Description>Crea lingotes.</Description>
     <AudioEventClick>FURNACE_WORKSHOP</AudioEventClick>
     <Tile>
       <Position>-1 -1</Position>
@@ -6441,8 +6435,8 @@
   <!--Prospector Shop-->
   <Item>
     <ID>Prospector</ID>
-    <Name>Prospector Shop</Name>
-    <Description>Search stone and soil for slivers of metal.</Description>
+    <Name>Puesto de buscadores</Name>
+    <Description>Busca en el suelo fragmentos de metal.</Description>
     <Tile>
       <Position>-1 -1</Position>
       <Part>
