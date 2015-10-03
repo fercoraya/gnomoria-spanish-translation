@@ -376,8 +376,8 @@
   </Item>
   <Item>
     <ID>Block</ID>
-    <Name>block</Name>
-    <ObtainDescription>Cut in a Stonecutter's workshop</ObtainDescription>
+    <Name>bloque</Name>
+    <ObtainDescription>Sacado de la cortadora</ObtainDescription>
     
     <BaseValue>1</BaseValue>
     <HasQuality>false</HasQuality>
@@ -388,8 +388,8 @@
   </Item>
   <Item>
     <ID>Plank</ID>
-    <Name>plank</Name>
-    <ObtainDescription>Cut in a Sawmill</ObtainDescription>
+    <Name>tablon</Name>
+    <ObtainDescription>Cortado en el aserradero</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>100</WeaponSize>
@@ -399,8 +399,8 @@
   </Item>
   <Item>
     <ID>Bar</ID>
-    <Name>bar</Name>
-    <ObtainDescription>Crafted in a Forge</ObtainDescription>
+    <Name>lingote</Name>
+    <ObtainDescription>Creado en la forja</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>20</WeaponSize>
@@ -411,16 +411,16 @@
   <Item>
     <ID>Gem</ID>
     <Prefix>cut</Prefix>
-    <Name>gem</Name>
-    <ObtainDescription>Cut in a Gemcutter's workshop</ObtainDescription>
+    <Name>gema</Name>
+    <ObtainDescription>Creado en la cortadora de gemas</ObtainDescription>
     <SpriteID>
       <SpriteID>Gem</SpriteID>
     </SpriteID>
   </Item>
   <Item>
     <ID>Bolt</ID>
-    <Name>bolt</Name>
-    <ObtainDescription>Woven with a Loom</ObtainDescription>
+    <Name>rollo</Name>
+    <ObtainDescription>Creado en el telar</ObtainDescription>
     <GroupName>bolt of cloth</GroupName>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -430,8 +430,8 @@
   </Item>
   <Item>
     <ID>Bandage</ID>
-    <Name>bandage</Name>
-    <ObtainDescription>Crafted at a Tailor</ObtainDescription>
+    <Name>venda</Name>
+    <ObtainDescription>Creado en la sastreria</ObtainDescription>
     <Effect>
       <Effect>Heal</Effect>
       <Amount>1</Amount>
@@ -444,8 +444,8 @@
   </Item>
   <Item>
     <ID>Rod</ID>
-    <Name>rod</Name>
-    <ObtainDescription>Crafted in a Machine shop</ObtainDescription>
+    <Name>barra</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>30</WeaponSize>
     <SpriteID>
@@ -454,8 +454,8 @@
   </Item>
   <Item>
     <ID>Gear</ID>
-    <Name>gear</Name>
-    <ObtainDescription>Crafted in a Machine shop</ObtainDescription>
+    <Name>engranaje</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>20</WeaponSize>
     <SpriteID>
@@ -464,8 +464,8 @@
   </Item>
   <Item>
     <ID>Spring</ID>
-    <Name>spring</Name>
-    <ObtainDescription>Crafted in a Machine shop</ObtainDescription>
+    <Name>muelle</Name>
+    <ObtainDescription>Creado en el taller de mecanismos</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -484,8 +484,8 @@
   </Item>
   <Item>
     <ID>PuzzleBox</ID>
-    <Name>puzzle box</Name>
-    <Description>[AN_ITEM_NAME].  It is actually impossible to open.</Description>
+    <Name>Caja misteriosa</Name>
+    <Description>[AN_ITEM_NAME].  Actualmente es imposible de abrir.</Description>
     <Value>25</Value>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -495,8 +495,8 @@
   <Item>
     <ID>CommemorativeCoin</ID>
     <Prefix>commemorative</Prefix>
-    <Name>coin</Name>
-    <Description>[AN_ITEM_NAME].  Celebrate the occasion with a coin.</Description>
+    <Name>moneda</Name>
+    <Description>[AN_ITEM_NAME].  Celebra la ocasion con una moneda.</Description>
     <Value>25</Value>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -505,8 +505,8 @@
   </Item>
   <Item>
     <ID>Statuette</ID>
-    <Name>statuette</Name>
-    <Description>[AN_ITEM_NAME].  Exactly like a statue but smaller.</Description>
+    <Name>Estatuilla</Name>
+    <Description>[AN_ITEM_NAME].  Exactamente como una estatua pero pequeña.</Description>
     <Value>25</Value>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -515,7 +515,7 @@
   </Item>
   <Item>
     <ID>Ring</ID>
-    <Name>ring</Name>
+    <Name>anillo</Name>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -525,7 +525,7 @@
   </Item>
   <Item>
     <ID>GemmedRing</ID>
-    <Name>ring</Name>
+    <Name>anillo</Name>
     <GroupName>gemmed ring</GroupName>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
@@ -536,7 +536,7 @@
   </Item>
   <Item>
     <ID>Necklace</ID>
-    <Name>necklace</Name>
+    <Name>collar</Name>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -546,7 +546,7 @@
   </Item>
   <Item>
     <ID>GemmedNecklace</ID>
-    <Name>necklace</Name>
+    <Name>collar</Name>
     <GroupName>gemmed necklace</GroupName>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
@@ -557,9 +557,9 @@
   </Item>
   <Item>
     <ID>Axle</ID>
-    <Name>axle</Name>
-    <Description>[AN_ITEM_NAME].  Used to connect mechanisms in a straight line.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>eje</Name>
+    <Description>[AN_ITEM_NAME].  Utilizado para conectar mecanismos en linea recta.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -568,9 +568,9 @@
   </Item>
   <Item>
     <ID>Gearbox</ID>
-    <Name>gearbox</Name>
-    <Description>[AN_ITEM_NAME].  Used to connect mechanisms at different angles.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>caja de cambios</Name>
+    <Description>[AN_ITEM_NAME].  Usado para conectar mecanismos en diferentes angulos.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -583,9 +583,9 @@
   </Item>
   <Item>
     <ID>Handcrank</ID>
-    <Name>handcrank</Name>
-    <Description>[AN_ITEM_NAME].  Provides power when operated.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>manivela</Name>
+    <Description>[AN_ITEM_NAME].  Proporciona potencia.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -594,9 +594,9 @@
   </Item>
   <Item>
     <ID>Lever</ID>
-    <Name>lever</Name>
-    <Description>[AN_ITEM_NAME].  Manually toggles connections.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>palanca</Name>
+    <Description>[AN_ITEM_NAME].  Activa manualmente conexiones.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -609,9 +609,9 @@
   </Item>
   <Item>
     <ID>PressurePlate</ID>
-    <Name>pressure plate</Name>
-    <Description>[AN_ITEM_NAME].  Toggles connections when under pressure.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>placa de presion</Name>
+    <Description>[AN_ITEM_NAME].  Se activa cuando se presiona.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -620,9 +620,9 @@
   </Item>
   <Item>
     <ID>MechanicalWall</ID>
-    <Name>mechanical wall</Name>
+    <Name>muro mecanico</Name>
     <Description>[AN_ITEM_NAME].  Converts to a wall when power is provided.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -631,9 +631,9 @@
   </Item>
   <Item>
     <ID>Hatch</ID>
-    <Name>hatch</Name>
+    <Name>escotilla</Name>
     <Description>[AN_ITEM_NAME].  Converts to a floor when power is provided.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -646,9 +646,9 @@
   </Item>
   <Item>
     <ID>SpikeTrap</ID>
-    <Name>spike trap</Name>
-    <Description>[AN_ITEM_NAME].  It needs to be reset after being triggered.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop.</ObtainDescription>
+    <Name>trampa de espinas</Name>
+    <Description>[AN_ITEM_NAME].  Es necesario reiniciarla despues de la activacion.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria.</ObtainDescription>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
       <SpriteID>SpikeTrapItem</SpriteID>
@@ -660,9 +660,9 @@
   </Item>
   <Item>
     <ID>BladeTrap</ID>
-    <Name>blade trap</Name>
-    <Description>[AN_ITEM_NAME].  It needs to be reset after being triggered.</Description>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <Name>trampa de cuchillas</Name>
+    <Description>[AN_ITEM_NAME].  Es necesario reiniciarla despues de la activacion.</Description>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
       <SpriteID>BladeTrapItem</SpriteID>
@@ -674,7 +674,7 @@
   </Item>
   <Item>
     <ID>ResourcePile</ID>
-    <Name>pile</Name>
+    <Name>pila</Name>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>64</Amount>
@@ -687,8 +687,8 @@
   </Item>
   <Item>
     <ID>Crate</ID>
-    <Name>crate</Name>
-    <Description>[AN_ITEM_NAME].  Used to store various items.</Description>
+    <Name>caja</Name>
+    <Description>[AN_ITEM_NAME].  Almacena diferentes objetos.</Description>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
@@ -701,9 +701,9 @@
   </Item>
   <Item>
     <ID>Barrel</ID>
-    <Name>barrel</Name>
-    <Description>[AN_ITEM_NAME].  Used to store liquids.</Description>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <Name>barril</Name>
+    <Description>[AN_ITEM_NAME].  Almacena liquidos.</Description>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>64</Amount>
@@ -716,8 +716,8 @@
   </Item>
   <Item>
     <ID>Bag</ID>
-    <Name>bag</Name>
-    <Description>[AN_ITEM_NAME].  Used to store various items.</Description>
+    <Name>bolsa</Name>
+    <Description>[AN_ITEM_NAME].  Almacena diferentes objetos.</Description>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
@@ -729,8 +729,8 @@
   </Item>
   <Item>
     <ID>WoodDoor</ID>
-    <Name>door</Name>
-    <Description>[AN_ITEM_NAME].  It opens AND closes.</Description>
+    <Name>puerta</Name>
+    <Description>[AN_ITEM_NAME].  Se abre y se cierra.</Description>
     <GroupName>wood door</GroupName>
     
     <Value>3</Value>
@@ -741,8 +741,8 @@
   </Item>
   <Item>
     <ID>StoneDoor</ID>
-    <Name>door</Name>
-    <Description>[AN_ITEM_NAME].  It opens AND closes.</Description>
+    <Name>puerta</Name>
+    <Description>[AN_ITEM_NAME].  Se abre y se cierra.</Description>
     <GroupName>stone door</GroupName>
     
     <Value>3</Value>
@@ -753,8 +753,8 @@
   </Item>
   <Item>
     <ID>Table</ID>
-    <Name>table</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <Name>mesa</Name>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>5</Value>
     <WeaponSize>500</WeaponSize>
@@ -776,8 +776,8 @@
   </Item>
   <Item>
     <ID>Chair</ID>
-    <Name>chair</Name>
-    <ObtainDescription>Crafted at a Crude Workbench or a Carpenter's workshop</ObtainDescription>
+    <Name>silla</Name>
+    <ObtainDescription>Creado en la mesa de trabajo o en la carpinteria</ObtainDescription>
     
     <Value>5</Value>
     <WeaponSize>200</WeaponSize>
@@ -799,8 +799,8 @@
   </Item>
   <Item>
     <ID>Bed</ID>
-    <Name>bed</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <Name>cama</Name>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>5</Value>
     <WeaponSize>2000</WeaponSize>
@@ -814,8 +814,8 @@
   </Item>
   <Item>
     <ID>FancyBed</ID>
-    <Name>four poster bed</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <Name>cama con dosel</Name>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>5</Value>
     <WeaponSize>2000</WeaponSize>
@@ -832,7 +832,7 @@
   </Item>
   <Item>
     <ID>Statue</ID>
-    <Name>statue</Name>
+    <Name>estatua</Name>
     
     <Value>25</Value>
     <WeaponSize>10000</WeaponSize>
@@ -842,8 +842,8 @@
   </Item>
   <Item>
     <ID>Pickaxe</ID>
-    <Name>pickaxe</Name>
-    <Description>[AN_ITEM_NAME].  Used for mining.</Description>
+    <Name>pico</Name>
+    <Description>[AN_ITEM_NAME].  Usado para minar.</Description>
     
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
@@ -1732,7 +1732,7 @@
   <Item>
     <ID>Stick</ID>
     <Name>stick</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>50</WeaponSize>
@@ -1743,7 +1743,7 @@
   <Item>
     <ID>Loom</ID>
     <Name>loom</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -1757,7 +1757,7 @@
   <Item>
     <ID>Hilt</ID>
     <Name>hilt</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -1857,7 +1857,7 @@
   <Item>
     <ID>Bellows</ID>
     <Name>bellows</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -1956,7 +1956,7 @@
   <Item>
     <ID>Haft</ID>
     <Name>haft</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -1988,7 +1988,7 @@
   <Item>
     <ID>BedFrame</ID>
     <Name>bed frame</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>2000</WeaponSize>
     <SpriteID>
@@ -1998,7 +1998,7 @@
   <Item>
     <ID>FancyBedFrame</ID>
     <Name>four poster bed frame</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>2000</WeaponSize>
     <SpriteID>
@@ -2204,7 +2204,7 @@
   <Item>
     <ID>PistolStock</ID>
     <Name>pistol stock</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2226,7 +2226,7 @@
   <Item>
     <ID>BlunderbussStock</ID>
     <Name>blunderbuss stock</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2259,7 +2259,7 @@
   <Item>
     <ID>CrossbowStock</ID>
     <Name>crossbow stock</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2270,7 +2270,7 @@
   <Item>
     <ID>TrapBase</ID>
     <Name>trap base</Name>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <Value>3</Value>
     <WeaponSize>10</WeaponSize>
@@ -2296,7 +2296,7 @@
   <Item>
     <ID>MechanismBase</ID>
     <Name>mechanism base</Name>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2311,7 +2311,7 @@
   <Item>
     <ID>WindmillBlade</ID>
     <Name>windmill blade</Name>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2323,7 +2323,7 @@
   <Item>
     <ID>Cylinder</ID>
     <Name>cylinder</Name>
-    <ObtainDescription>Crafted in an Engineer's workshop</ObtainDescription>
+    <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -2334,7 +2334,7 @@
   <Item>
     <ID>TrainingDummy</ID>
     <Name>training dummy</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <WeaponSize>50</WeaponSize>
     <SpriteID>
@@ -2344,7 +2344,7 @@
   <Item>
     <ID>Dresser</ID>
     <Name>dresser</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>10</Value>
     <WeaponSize>200</WeaponSize>
@@ -2355,7 +2355,7 @@
   <Item>
     <ID>Cabinet</ID>
     <Name>cabinet</Name>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     
     <Value>10</Value>
     <WeaponSize>200</WeaponSize>
@@ -3213,7 +3213,7 @@
     <ID>Bucket</ID>
     <Name>bucket</Name>
     <Description>[AN_ITEM_NAME].  Used to haul liquids.</Description>
-    <ObtainDescription>Crafted in a Carpenter's workshop</ObtainDescription>
+    <ObtainDescription>Creado en la carpinteria</ObtainDescription>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
