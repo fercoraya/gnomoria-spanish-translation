@@ -56,7 +56,7 @@
   <Item>
     <ID>SoilFloor</ID>
     <Prefix>soil</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -71,7 +71,7 @@
   <Item>
     <ID>RawStoneFloor</ID>
     <Prefix>stone</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -130,7 +130,7 @@
   <!--PlankFloor-->
   <Item>
     <ID>PlankFloor</ID>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>plank floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -146,7 +146,7 @@
   <!--MetalFloor-->
   <Item>
     <ID>MetalFloor</ID>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>metal floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -167,7 +167,7 @@
   <Item>
     <ID>SoilWall</ID>
     <Prefix>soil</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -190,7 +190,7 @@
   <Item>
     <ID>RawStoneWall</ID>
     <Prefix>stone</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -281,7 +281,7 @@
   <!--PlankWall-->
   <Item>
     <ID>PlankWall</ID>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>plank wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -305,7 +305,7 @@
   <!--MetalWall-->
   <Item>
     <ID>MetalWall</ID>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>metal wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -678,7 +678,7 @@
   <Item>
     <ID>RawStoneRamp</ID>
     <Prefix>stone</Prefix>
-    <Name>ramp</Name>
+    <Name>rampa</Name>
     <SpriteID>
       <SpriteID>Stone</SpriteID>
     </SpriteID>
@@ -849,8 +849,8 @@
   <!--Well-->
   <Item>
     <ID>Well</ID>
-    <Name>Well</Name>
-    <ToolTip>When built over water, it provides a place to drink.</ToolTip>
+    <Name>Pozo</Name>
+    <ToolTip>Proporciona agua para beber</ToolTip>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -879,7 +879,7 @@
   <!--Tree-->
   <Item>
     <ID>Tree</ID>
-    <Name>tree</Name>
+    <Name>arbol</Name>
     <SpriteID>
       <SpriteID>PineTree</SpriteID>
     </SpriteID>
@@ -890,7 +890,7 @@
   <!--Wood Door-->
   <Item>
     <ID>WoodDoor</ID>
-    <Name>door</Name>
+    <Name>puerta</Name>
     <GroupName>wood door</GroupName>
     <SpriteID>
       <SpriteID>WoodDoor</SpriteID>
@@ -952,7 +952,7 @@
   <!--Stone Door-->
   <Item>
     <ID>StoneDoor</ID>
-    <Name>door</Name>
+    <Name>puerta</Name>
     <GroupName>stone door</GroupName>
     <SpriteID>
       <SpriteID>StoneDoor</SpriteID>
@@ -1014,7 +1014,7 @@
   <!--Table-->
   <Item>
     <ID>Table</ID>
-    <Name>table</Name>
+    <Name>mesa</Name>
     <Effect>
       <Effect>Surface</Effect>
       <Amount>1</Amount>
@@ -1065,7 +1065,7 @@
   <!--Chair-->
   <Item>
     <ID>Chair</ID>
-    <Name>chair</Name>
+    <Name>silla</Name>
     <Effect>
       <Effect>Sit</Effect>
       <Amount>1</Amount>
@@ -1117,7 +1117,7 @@
   <!--Bed-->
   <Item>
     <ID>Bed</ID>
-    <Name>bed</Name>
+    <Name>cama</Name>
     <Effect>
       <Effect>Sleep</Effect>
       <Amount>1</Amount>
@@ -1137,7 +1137,7 @@
   <!--FancyBed-->
   <Item>
     <ID>FancyBed</ID>
-    <Name>four poster bed</Name>
+    <Name>cama con dosel</Name>
     <Effect>
       <Effect>Sleep</Effect>
       <Amount>1</Amount>
@@ -1160,7 +1160,7 @@
   <!--Statue-->
   <Item>
     <ID>Statue</ID>
-    <Name>statue</Name>
+    <Name>estatua</Name>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -1180,8 +1180,8 @@
   <!--Torch-->
   <Item>
     <ID>Torch</ID>
-    <Name>torch</Name>
-    <ToolTip>Provides light when placed</ToolTip>
+    <Name>antorcha</Name>
+    <ToolTip>Proporciona luz</ToolTip>
     <Effect>
       <Effect>LightSource</Effect>
       <Amount>16</Amount>
@@ -1241,8 +1241,8 @@
   <!--Axle-->
   <Item>
     <ID>Axle</ID>
-    <Name>axle</Name>
-    <ToolTip>Used to connect mechanisms in a straight line</ToolTip>
+    <Name>eje</Name>
+    <ToolTip>Usado para conectar mecanismos en linea recta</ToolTip>
     <SpriteID>
       <SpriteID>Axle1</SpriteID>
     </SpriteID>
@@ -1281,8 +1281,8 @@
   <Item>
     <ID>VerticalAxle</ID>
     <Prefix>vertical</Prefix>
-    <Name>axle</Name>
-    <ToolTip>Used to connect mechanisms in a straight line</ToolTip>
+    <Name>eje</Name>
+    <ToolTip>Usado para conectar mecanismos en linea recta</ToolTip>
     <SpriteID>
       <SpriteID>AxleUD1</SpriteID>
     </SpriteID>
@@ -1319,8 +1319,8 @@
   <!--GearBox-->
   <Item>
     <ID>GearBox</ID>
-    <Name>gear box</Name>
-    <ToolTip>Used to connect mechanisms at different angles</ToolTip>
+    <Name>caja de cambios</Name>
+    <ToolTip>Usado para conectar mecanismos en diferentes angulos</ToolTip>
     <SpriteID>
       <SpriteID>GearBoxBase</SpriteID>
     </SpriteID>
@@ -1337,8 +1337,8 @@
   <!--Lever-->
   <Item>
     <ID>Lever</ID>
-    <Name>lever</Name>
-    <ToolTip>Manually toggles connections</ToolTip>
+    <Name>palanca</Name>
+    <ToolTip>Activa manualmente conexiones</ToolTip>
     <SpriteID>
       <SpriteID>LeverBase</SpriteID>
     </SpriteID>
@@ -1379,8 +1379,8 @@
   <!--PressurePlate-->
   <Item>
     <ID>PressurePlate</ID>
-    <Name>pressure plate</Name>
-    <ToolTip>Toggles connections when under pressure</ToolTip>
+    <Name>placa de presion</Name>
+    <ToolTip>Se activa cuando se presiona</ToolTip>
     <SpriteID>
       <SpriteID>PressurePlate</SpriteID>
     </SpriteID>
@@ -1408,7 +1408,7 @@
   <!--MechanicalWall-->
   <Item>
     <ID>MechanicalWall</ID>
-    <Name>mechanical wall</Name>
+    <Name>muro mecanico</Name>
     <ToolTip>Converts to a wall when power is provided</ToolTip>
     <SpriteID>
       <SpriteID>MechanicalWallClosed</SpriteID>
@@ -1438,7 +1438,7 @@
   <!--Hatch-->
   <Item>
     <ID>Hatch</ID>
-    <Name>hatch</Name>
+    <Name>escotilla</Name>
     <ToolTip>Converts to a floor when power is provided</ToolTip>
     <SpriteID>
       <SpriteID>HatchFrame</SpriteID>
@@ -1468,7 +1468,7 @@
   <!--Pump-->
   <Item>
     <ID>Pump</ID>
-    <Name>pump</Name>
+    <Name>bomba</Name>
     <SpriteID>
       <SpriteID>PumpFloor</SpriteID>
     </SpriteID>
@@ -1516,8 +1516,8 @@
   <!--Spike Trap-->
   <Item>
     <ID>SpikeTrap</ID>
-    <Name>spike trap</Name>
-    <ToolTip>A trap that needs to be reset after being triggered</ToolTip>
+    <Name>trampa de espinas</Name>
+    <ToolTip>Es necesario reiniciarla despues de la activacion.</ToolTip>
     <SpriteID>
       <SpriteID>SpikeTrap</SpriteID>
       <MaterialIndex>-1</MaterialIndex>
@@ -1561,8 +1561,8 @@
   <!--Blade Trap-->
   <Item>
     <ID>BladeTrap</ID>
-    <Name>blade trap</Name>
-    <ToolTip>A trap that needs to be reset after being triggered</ToolTip>
+    <Name>trampa de cuchillas</Name>
+    <ToolTip>Es necesario reiniciarla despues de la activacion.</ToolTip>
     <SpriteID>
       <SpriteID>BladeTrap</SpriteID>
       <MaterialIndex>-1</MaterialIndex>
@@ -1616,8 +1616,8 @@
   <!--Handcrank-->
   <Item>
     <ID>Handcrank</ID>
-    <Name>handcrank</Name>
-    <ToolTip>Provides power when operated</ToolTip>
+    <Name>manivela</Name>
+    <ToolTip>Proporciona potencia</ToolTip>
     <SpriteID>
       <SpriteID>Handcrank</SpriteID>
     </SpriteID>
@@ -1630,8 +1630,8 @@
   <!--WindMill-->
   <Item>
     <ID>WindMill</ID>
-    <Name>wind mill</Name>
-    <ToolTip>Provides power when built above ground</ToolTip>
+    <Name>molino</Name>
+    <ToolTip>Proporciona energia</ToolTip>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -1698,8 +1698,8 @@
   <!--SteamEngine-->
   <Item>
     <ID>SteamEngine</ID>
-    <Name>steam engine</Name>
-    <ToolTip>Converts coal into power</ToolTip>
+    <Name>motor de vapor</Name>
+    <ToolTip>Obtiene energia del carbon</ToolTip>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -2955,7 +2955,7 @@
   <Item>
     <ID>WallTorch</ID>
     <Name>torch</Name>
-    <ToolTip>Provides light when placed</ToolTip>
+    <ToolTip>Proporciona luz</ToolTip>
     <GroupName>wall torch</GroupName>
     <Effect>
       <Effect>LightSource</Effect>
@@ -3079,7 +3079,7 @@
   <Item>
     <ID>SmoothStoneFloor</ID>
     <Prefix>smooth</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>stone floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3096,7 +3096,7 @@
   <Item>
     <ID>SmoothStoneWall</ID>
     <Prefix>smooth</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>stone wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3121,7 +3121,7 @@
   <Item>
     <ID>FramedDirtFloor</ID>
     <Prefix>framed</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>soil floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3145,7 +3145,7 @@
   <Item>
     <ID>FramedStoneFloor</ID>
     <Prefix>framed</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>stone floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3169,7 +3169,7 @@
   <Item>
     <ID>FramedBlockFloor</ID>
     <Prefix>framed</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>block floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3193,7 +3193,7 @@
   <Item>
     <ID>FramedSmoothFloor</ID>
     <Prefix>framed</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>smooth floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3217,7 +3217,7 @@
   <Item>
     <ID>CrossFramedDirtWall</ID>
     <Prefix>cross framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>soil wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3253,7 +3253,7 @@
   <Item>
     <ID>VFramedDirtWall</ID>
     <Prefix>v-framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>soil wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3289,7 +3289,7 @@
   <Item>
     <ID>CrossFramedStoneWall</ID>
     <Prefix>cross framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>stone wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3325,7 +3325,7 @@
   <Item>
     <ID>VFramedStoneWall</ID>
     <Prefix>v-framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>stone wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3361,7 +3361,7 @@
   <Item>
     <ID>CrossFramedBlockWall</ID>
     <Prefix>cross framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>block wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3397,7 +3397,7 @@
   <Item>
     <ID>VFramedBlockWall</ID>
     <Prefix>v-framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>block wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3433,7 +3433,7 @@
   <Item>
     <ID>PanelledBlockWall</ID>
     <Prefix>wood panelled</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>block wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3469,7 +3469,7 @@
   <Item>
     <ID>CrossFramedSmoothWall</ID>
     <Prefix>cross framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>smooth wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3505,7 +3505,7 @@
   <Item>
     <ID>VFramedSmoothWall</ID>
     <Prefix>v-framed</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>smooth wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3541,7 +3541,7 @@
   <Item>
     <ID>PanelledSmoothWall</ID>
     <Prefix>wood panelled</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>smooth wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3576,7 +3576,7 @@
   <!--CeramicFloor-->
   <Item>
     <ID>CeramicFloor</ID>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <GroupName>ceramic floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3593,7 +3593,7 @@
   <!--CeramicWall-->
   <Item>
     <ID>CeramicWall</ID>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <GroupName>ceramic wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3619,7 +3619,7 @@
   <Item>
     <ID>CarvedStoneFloor</ID>
     <Prefix>carved</Prefix>
-    <Name>floor</Name>
+    <Name>suelo</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3635,7 +3635,7 @@
   <Item>
     <ID>CarvedStoneWall</ID>
     <Prefix>carved</Prefix>
-    <Name>wall</Name>
+    <Name>muro</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
