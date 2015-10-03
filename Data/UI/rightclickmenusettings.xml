@@ -25,8 +25,8 @@
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Rampa hacia arriba</Text>
-			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>
+			<Text>Rampa hacia abajo</Text>
+			<ToolTip>Mina el muro para hacer una escalera hacia abajo</ToolTip>
 			<Action>
 			  <Type>MineRampUp</Type>
 			</Action>
@@ -516,118 +516,118 @@
 	  <MenuItem>
 		<Text>Muebles</Text>
 		<MenuItem>
-		  <Text>door</Text>
+		  <Text>Puerta</Text>
 		  <Action>
 			<Type>BuildDoor</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>StrawBed</Text>
+		  <Text>Cama de paja</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>StrawBed</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Bed</Text>
+		  <Text>Cama</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Bed</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>FancyBed</Text>
+		  <Text>Cama de lujo</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>FancyBed</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Table</Text>
+		  <Text>Mesa</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Table</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Chair</Text>
+		  <Text>Silla</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Chair</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Dresser</Text>
+		  <Text>Vestidor</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Dresser</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Cabinet</Text>
+		  <Text>Gabinete</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Cabinet</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Statue</Text>
+		  <Text>Estatua</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Statue</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Torch</Text>
+		  <Text>Antorcha</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Torch</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>WallTorch</Text>
+		  <Text>Antorcha de pared</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>WallTorch</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Pillar</Text>
+		  <Text>Pilar</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>Pillar</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>PostAndRailFence</Text>
+		  <Text>Valla</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>PostAndRailFence</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>PicketFence</Text>
+		  <Text>Poste</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>PicketFence</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Trough</Text>
+		  <Text>Comedero</Text>
 		  <Action>
 			<Type>BuildTrough</Type>
 			<ID>Trough</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>SkullPike</Text>
+		  <Text>Poste con calavera</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>SkullPike</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>AlarmBell</Text>
+		  <Text>Alarma</Text>
 		  <Action>
 			<Type>BuildConstruction</Type>
 			<ID>AlarmBell</ID>
@@ -636,23 +636,23 @@
 	  </MenuItem>
 	  <!--Storage-->
 	  <MenuItem>
-		<Text>Storage</Text>
+		<Text>Almacen</Text>
 		<MenuItem>
-		  <Text>Crate</Text>
+		  <Text>Caja</Text>
 		  <Action>
 			<Type>BuildContainer</Type>
 			<ID>Crate</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Barrel</Text>
+		  <Text>Barril</Text>
 		  <Action>
 			<Type>BuildContainer</Type>
 			<ID>Barrel</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Bag</Text>
+		  <Text>Bolsa</Text>
 		  <Action>
 			<Type>BuildContainer</Type>
 			<ID>Bag</ID>
@@ -661,66 +661,66 @@
 	  </MenuItem>
 	  <!--Terrain-->
 	  <MenuItem>
-		<Text>Terrain</Text>
+		<Text>Terreno</Text>
 		<MenuItem>
-		  <Text>wall</Text>
-		  <ToolTip>Build a wall</ToolTip>
+		  <Text>Muro</Text>
+		  <ToolTip>Construir un muro</ToolTip>
 		  <Action>
 			<Type>BuildWall</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>floor</Text>
-		  <ToolTip>Build a floor</ToolTip>
+		  <Text>Suelo</Text>
+		  <ToolTip>Poner suelo</ToolTip>
 		  <Action>
 			<Type>BuildFloor</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>stairs up</Text>
-		  <ToolTip>Build stairs going up</ToolTip>
+		  <Text>Escalera hacia arriba</Text>
+			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>
 		  <Action>
 			<Type>BuildStairsUp</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>stairs down</Text>
-		  <ToolTip>Build stairs going down</ToolTip>
+		  <Text>Rampa hacia abajo</Text>
+			<ToolTip>Mina el muro para hacer una escalera hacia abajo</ToolTip>
 		  <Action>
 			<Type>BuildStairsDown</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>incline up</Text>
-		  <ToolTip>Build an incline going up</ToolTip>
+		  <Text>Inclinacion hacia arriba</Text>
+		  <ToolTip>Crea una inclinacion hacia arriba</ToolTip>
 		  <Action>
 			<Type>BuildInclineUp</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>incline down</Text>
-		  <ToolTip>Build an incline going down</ToolTip>
+		  <Text>Inclinacion hacia abajo</Text>
+		  <ToolTip>Crea una inclinacion hacia abajo</ToolTip>
 		  <Action>
 			<Type>BuildInclineDown</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>ramp up</Text>
-		  <ToolTip>Build a ramp going up</ToolTip>
+		  <Text>Rampa hacia arriba</Text>
+			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>			
 		  <Action>
 			<Type>BuildRampUp</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>ramp down</Text>
-		  <ToolTip>Build a ramp going down</ToolTip>
+		  <Text>Rampa hacia abajo</Text>
+			<ToolTip>Mina el muro para hacer una rampa hacia abajo</ToolTip>			
 		  <Action>
 			<Type>BuildRampDown</Type>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>scaffolding</Text>
-		  <ToolTip>Build scaffolding</ToolTip>
+		  <Text>Andamio</Text>
+		  <ToolTip>Construir andamio</ToolTip>
 		  <Action>
 			<Type>BuildScaffolding</Type>
 		  </Action>
@@ -729,109 +729,109 @@
 	</MenuItem>
 	<!--Designate Area-->
 	<MenuItem>
-	  <Text>Designate Area</Text>
+	  <Text>Designar area</Text>
 	  <MenuItem>
-		<Text>Stockpile</Text>
-		<ToolTip>Store items</ToolTip>
+		<Text>Almacen</Text>
+		<ToolTip>Almacena objetos</ToolTip>
 		<Action>
 		  <Type>CreateStockpile</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Farm</Text>
-		<ToolTip>Grow crops</ToolTip>
+		<Text>Granga</Text>
+		<ToolTip>Cultivar</ToolTip>
 		<Action>
 		  <Type>CreateFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Underground Farm</Text>
-		<ToolTip>Grow underground crops</ToolTip>
+		<Text>Granja subterranea</Text>
+		<ToolTip>Cultivar bajo tierra</ToolTip>
 		<Action>
 		  <Type>CreateUndergroundFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Pasture</Text>
-		<ToolTip>Livestock graze in a pasture</ToolTip>
+		<Text>Pasto</Text>
+		<ToolTip>El ganado se cria en un pasto</ToolTip>
 		<Action>
 		  <Type>CreatePasture</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Grove</Text>
-		<ToolTip>Grow and harvest trees</ToolTip>
+		<Text>Arboleda</Text>
+		<ToolTip>Planta, recolecta y tala arboles</ToolTip>		
 		<Action>
 		  <Type>CreateGrove</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Personal Quarters</Text>
-		<ToolTip>Provides better sleep\nand increases happiness</ToolTip>
+		<Text>Habitacion</Text>
+		<ToolTip>Mejora el suenyo y aumenta la felicidad</ToolTip>
 		<Action>
 		  <Type>CreatePersonalQuarters</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Dormitory</Text>
-		<ToolTip>Community sleeping area</ToolTip>
+		<Text>Dormitorio</Text>
+		<ToolTip>Area comunitaria para dormir</ToolTip>
 		<Action>
 		  <Type>CreateDormitory</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Dining Room</Text>
-		<ToolTip>Create dining room and great hall</ToolTip>
+		<Text>Comedor</Text>
+		<ToolTip>Designa comedor y gran salon</ToolTip>
 		<Action>
 		  <Type>CreateDiningRoom</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
 		<Text>Hospital</Text>
-		<ToolTip>Create a hospital area</ToolTip>
+		<ToolTip>Designa un area de hospital</ToolTip>
 		<Action>
 		  <Type>CreateHospital</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Guard Area</Text>
-		<ToolTip>Designate area to guard</ToolTip>
+		<Text>Guardia</Text>
+		<ToolTip>Designa un area para la guardia</ToolTip>
 		<Action>
 		  <Type>CreateGuardArea</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Patrol Route</Text>
-		<ToolTip>Designate waypoints to patrol</ToolTip>
+		<Text>Ruta de patrulla</Text>
+		<ToolTip>Designa puntos de control para una patrulla</ToolTip>
 		<Action>
 		  <Type>CreatePatrolRoute</Type>
 		</Action>
 	  </MenuItem>
 	</MenuItem>
 	<MenuItem>
-	  <Text>Clean Floor</Text>
-	  <ToolTip>Stock items on this floor next if possible</ToolTip>
+	  <Text>Limpiar suelo</Text>
+	  <ToolTip>Almacena objetos en el almacen mas cercano</ToolTip>
 	  <Action>
 		<Type>CleanFloor</Type>
 	  </Action>
 	</MenuItem>
 	<MenuItem>
-	  <Text>Deconstruct</Text>
-	  <ToolTip>Deconstruct</ToolTip>
+	  <Text>Desmontar</Text>
+	  <ToolTip>Desmontar</ToolTip>
 	  <Action>
 		<Type>Deconstruct</Type>
 	  </Action>
 	</MenuItem>
 	<MenuItem>
-	  <Text>Remove Designation</Text>
-	  <ToolTip>Remove Designation</ToolTip>
+	  <Text>Cancelar designacion</Text>
+	  <ToolTip>Cancela la designacion de un area</ToolTip>
 	  <Action>
 		<Type>RemoveDesignation</Type>
 	  </Action>
 	</MenuItem>
 	<MenuItem>
-	  <Text>Cancel Job</Text>
-	  <ToolTip>Cancel</ToolTip>
+	  <Text>Cancelar trabajo</Text>
+	  <ToolTip>Cancelar trabajo</ToolTip>
 	  <Action>
 		<Type>CancelJob</Type>
 	  </Action>
