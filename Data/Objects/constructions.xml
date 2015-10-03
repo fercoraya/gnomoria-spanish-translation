@@ -359,7 +359,7 @@
   <Item>
     <ID>RawStoneStairs</ID>
     <Prefix>stone</Prefix>
-    <Name>stairs</Name>
+    <Name>escalera</Name>
     <SpriteID>
       <SpriteID>Stairs</SpriteID>
     </SpriteID>
@@ -400,7 +400,7 @@
   <!--MetalStairs-->
   <Item>
     <ID>MetalStairs</ID>
-    <Name>metal stairs</Name>
+    <Name>escalera de metal</Name>
     <Value>10</Value>
     <SpriteID>
       <SpriteID>Stairs</SpriteID>
@@ -422,7 +422,7 @@
   <Item>
     <ID>SoilRamp</ID>
     <Prefix>soil</Prefix>
-    <Name>ramp</Name>
+    <Name>rampa</Name>
     <SpriteID>
       <SpriteID>SoilTopLeftAndRightRamp</SpriteID>
       <SpriteIDByMaterialID>
@@ -1769,7 +1769,7 @@
   <!--StoneCutter-->
   <Item>
     <ID>Stonecutter</ID>
-    <Name>Stonecutter</Name>
+    <Name>Cortadora de piedra</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1790,7 +1790,7 @@
   <!--WoodCutter-->
   <Item>
     <ID>Woodcutter</ID>
-    <Name>Sawmill</Name>
+    <Name>Sierra</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1811,7 +1811,7 @@
   <!--Forge-->
   <Item>
     <ID>Forge</ID>
-    <Name>Forge</Name>
+    <Name>Forja</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1832,7 +1832,7 @@
   <!--Gemcutter-->
   <Item>
     <ID>Gemcutter</ID>
-    <Name>Gemcutter</Name>
+    <Name>Cortadora de gemas</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1852,7 +1852,7 @@
   <!--Loom-->
   <Item>
     <ID>Loom</ID>
-    <Name>Loom</Name>
+    <Name>Telar</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1869,7 +1869,7 @@
   <!--Furnace-->
   <Item>
     <ID>Furnace</ID>
-    <Name>Furnace</Name>
+    <Name>Horno</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1886,7 +1886,7 @@
   <!--Kiln-->
   <Item>
     <ID>Kiln</ID>
-    <Name>Kiln</Name>
+    <Name>Horno de arcilla</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1903,7 +1903,7 @@
   <!--Distillery-->
   <Item>
     <ID>Distillery</ID>
-    <Name>Distillery</Name>
+    <Name>Destileria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1920,7 +1920,7 @@
   <!--Butcher-->
   <Item>
     <ID>Butcher</ID>
-    <Name>Butcher Shop</Name>
+    <Name>Carniceria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1941,7 +1941,7 @@
   <!--Stonemason-->
   <Item>
     <ID>Stonemason</ID>
-    <Name>Stonemason</Name>
+    <Name>Taller de piedra</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1962,7 +1962,7 @@
   <!--Stonecarver-->
   <Item>
     <ID>Stonecarver</ID>
-    <Name>Stonecarver</Name>
+    <Name>Tallador de piedra</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -1983,7 +1983,7 @@
   <!--Carpenter-->
   <Item>
     <ID>Carpenter</ID>
-    <Name>Carpenter</Name>
+    <Name>Carpinteria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2004,7 +2004,7 @@
   <!--Woodcarver-->
   <Item>
     <ID>Woodcarver</ID>
-    <Name>Woodcarver</Name>
+    <Name>Tallador de madera</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2025,7 +2025,7 @@
   <!--Blacksmith-->
   <Item>
     <ID>Blacksmith</ID>
-    <Name>Blacksmith</Name>
+    <Name>Herreria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2046,7 +2046,7 @@
   <!--Metalworker-->
   <Item>
     <ID>Metalworker</ID>
-    <Name>Metalworker</Name>
+    <Name>Metalurgia</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2067,7 +2067,7 @@
   <!--MachineShop-->
   <Item>
     <ID>MachineShop</ID>
-    <Name>Machine Shop</Name>
+    <Name>Taller de mecanismos</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2088,7 +2088,7 @@
   <!--Jeweler-->
   <Item>
     <ID>Jeweler</ID>
-    <Name>Jeweler</Name>
+    <Name>Joyeria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2108,7 +2108,7 @@
   <!--Tailor-->
   <Item>
     <ID>Tailor</ID>
-    <Name>Tailor Shop</Name>
+    <Name>Sastreria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2129,7 +2129,7 @@
   <!--Leatherworker-->
   <Item>
     <ID>Leatherworker</ID>
-    <Name>Leatherworker</Name>
+    <Name>Peleteria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2149,7 +2149,7 @@
   <!--Kitchen-->
   <Item>
     <ID>Kitchen</ID>
-    <Name>Kitchen</Name>
+    <Name>Cocina</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2169,7 +2169,7 @@
   <!--Weaponsmith-->
   <Item>
     <ID>Weaponsmith</ID>
-    <Name>Weaponsmith</Name>
+    <Name>Armeria (armas)</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2193,7 +2193,7 @@
   <!--Armorer-->
   <Item>
     <ID>Armorer</ID>
-    <Name>Armorer</Name>
+    <Name>Armeria (armaduras)</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2217,7 +2217,7 @@
   <!--TinkerBench-->
   <Item>
     <ID>TinkerBench</ID>
-    <Name>Tinker Bench</Name>
+    <Name>Banco calderero</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2237,7 +2237,7 @@
   <!--Engineer-->
   <Item>
     <ID>Engineer</ID>
-    <Name>Engineer Shop</Name>
+    <Name>Taller de ingenieria</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2257,7 +2257,7 @@
   <!--MarketStall-->
   <Item>
     <ID>MarketStall</ID>
-    <Name>Market Stall</Name>
+    <Name>Puesto de mercado</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2275,7 +2275,7 @@
   <!--ChiseledBlockFloor-->
   <Item>
     <ID>ChiseledBlockFloor</ID>
-    <Name>chiseled stone floor</Name>
+    <Name>suelo de piedra cincelada</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -2290,7 +2290,7 @@
   <!--ChiseledBlockWall-->
   <Item>
     <ID>ChiseledBlockWall</ID>
-    <Name>chiseled stone wall</Name>
+    <Name>muro de piedra cincelado</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -2314,8 +2314,8 @@
   <!--Crate-->
   <Item>
     <ID>Crate</ID>
-    <Name>crate</Name>
-    <ToolTip>Build in a Stockpile to store items.</ToolTip>
+    <Name>caja</Name>
+    <ToolTip>Almacena objetos.</ToolTip>
     <Value>1</Value>
     <SpriteID>
       <SpriteID>Crate</SpriteID>
@@ -2327,8 +2327,8 @@
   <!--Barrel-->
   <Item>
     <ID>Barrel</ID>
-    <Name>barrel</Name>
-    <ToolTip>Build in a Stockpile to store items.</ToolTip>
+    <Name>barril</Name>
+    <ToolTip>Almacena objetos.</ToolTip>
     <Value>1</Value>
     <SpriteID>
       <SpriteID>Barrel</SpriteID>
@@ -2340,8 +2340,8 @@
   <!--Bag-->
   <Item>
     <ID>Bag</ID>
-    <Name>bag</Name>
-    <ToolTip>Build in a Stockpile to store items.</ToolTip>
+    <Name>bolsa</Name>
+    <ToolTip>Almacena objetos.</ToolTip>
     <Value>1</Value>
     <SpriteID>
       <SpriteID>Bag</SpriteID>
@@ -2354,7 +2354,7 @@
   <!--TrainingGrounds-->
   <Item>
     <ID>TrainingGrounds</ID>
-    <Name>Training Grounds</Name>
+    <Name>Campo de entrenamiento</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2368,7 +2368,7 @@
   <!--Pillar-->
   <Item>
     <ID>Pillar</ID>
-    <Name>pillar</Name>
+    <Name>pilar</Name>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -2388,7 +2388,7 @@
   <!--Crude workbench-->
   <Item>
     <ID>CrudeWorkbench</ID>
-    <Name>Crude Workbench</Name>
+    <Name>Banco de trabajo</Name>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
     </SpriteID>
@@ -2403,7 +2403,7 @@
   </Item>
   <Item>
     <ID>Bonecarver</ID>
-    <Name>Bonecarver</Name>
+    <Name>Taller de huesos</Name>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
     </SpriteID>
@@ -2421,7 +2421,7 @@
   </Item>
   <Item>
     <ID>StrawBed</ID>
-    <Name>straw bed</Name>
+    <Name>cama de paja</Name>
     <Effect>
       <Effect>Sleep</Effect>
       <Amount>0.5</Amount>

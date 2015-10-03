@@ -191,7 +191,7 @@
   </Item>
   <Item>
     <ID>Clipping</ID>
-    <Name>recorte</Name>
+    <Name>raiz</Name>
     <ObtainDescription>Cortado de un arbol</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
