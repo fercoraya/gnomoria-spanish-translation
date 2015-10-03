@@ -69,9 +69,8 @@
   </Item>
   <!--RawStoneFloor-->
   <Item>
-    <ID>RawStoneFloor</ID>
-    <Prefix>stone</Prefix>
-    <Name>suelo</Name>
+    <ID>RawStoneFloor</ID>    
+    <Name>suelo de piedra</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -336,9 +335,8 @@
   </Item>
   <!--DirtStairs-->
   <Item>
-    <ID>SoilStairs</ID>
-    <Prefix>soil</Prefix>
-    <Name>stairs</Name>
+    <ID>SoilStairs</ID>    
+    <Name>escalera de suelo</Name>
     <SpriteID>
       <SpriteID>Stairs</SpriteID>
     </SpriteID>
@@ -357,9 +355,8 @@
   </Item>
   <!--RawStoneStairs-->
   <Item>
-    <ID>RawStoneStairs</ID>
-    <Prefix>stone</Prefix>
-    <Name>escalera</Name>
+    <ID>RawStoneStairs</ID>    
+    <Name>escalera de piedra</Name>
     <SpriteID>
       <SpriteID>Stairs</SpriteID>
     </SpriteID>
@@ -420,9 +417,8 @@
   </Item>
   <!--SoilRamp-->
   <Item>
-    <ID>SoilRamp</ID>
-    <Prefix>soil</Prefix>
-    <Name>rampa</Name>
+    <ID>SoilRamp</ID>    
+    <Name>rampa de suelo</Name>
     <SpriteID>
       <SpriteID>SoilTopLeftAndRightRamp</SpriteID>
       <SpriteIDByMaterialID>
@@ -677,8 +673,7 @@
   <!--RawStoneRamp-->
   <Item>
     <ID>RawStoneRamp</ID>
-    <Prefix>stone</Prefix>
-    <Name>rampa</Name>
+    <Name>rampa de piedra</Name>
     <SpriteID>
       <SpriteID>Stone</SpriteID>
     </SpriteID>
@@ -1279,9 +1274,8 @@
   </Item>
   <!--VerticalAxle-->
   <Item>
-    <ID>VerticalAxle</ID>
-    <Prefix>vertical</Prefix>
-    <Name>eje</Name>
+    <ID>VerticalAxle</ID>    
+    <Name>eje vertical</Name>
     <ToolTip>Usado para conectar mecanismos en linea recta</ToolTip>
     <SpriteID>
       <SpriteID>AxleUD1</SpriteID>
@@ -2629,7 +2623,7 @@
   <!--BoneFloor-->
   <Item>
     <ID>BoneFloor</ID>
-    <Name>bone floor</Name>
+    <Name>suelo de hueso</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -2645,7 +2639,7 @@
   <!--BoneWall-->
   <Item>
     <ID>BoneWall</ID>
-    <Name>bone wall</Name>
+    <Name>muro de hueso</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -2669,7 +2663,7 @@
   <!--ThatchFloor-->
   <Item>
     <ID>ThatchFloor</ID>
-    <Name>thatch floor</Name>
+    <Name>suelo de paja</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -2686,7 +2680,7 @@
   <!--ThatchWall-->
   <Item>
     <ID>ThatchWall</ID>
-    <Name>thatch wall</Name>
+    <Name>muro de paja</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -2712,7 +2706,7 @@
   <!--ThatchIncline-->
   <Item>
     <ID>ThatchIncline</ID>
-    <Name>thatch incline</Name>
+    <Name>inclinacion de paja</Name>
     <Value>5</Value>
     <SpriteID>
       <SpriteID>ThatchInclineUp</SpriteID>
@@ -2736,7 +2730,7 @@
   <!--PlankStairs-->
   <Item>
     <ID>PlankStairs</ID>
-    <Name>plank stairs</Name>
+    <Name>escalera de tablones</Name>
     <Value>10</Value>
     <SpriteID>
       <SpriteID>PlankStairs</SpriteID>
@@ -2757,7 +2751,7 @@
   <!--PostAndRailFence-->
   <Item>
     <ID>PostAndRailFence</ID>
-    <Name>rail fence</Name>
+    <Name>valla de rail</Name>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -2814,7 +2808,7 @@
   <!--PicketFence-->
   <Item>
     <ID>PicketFence</ID>
-    <Name>picket fence</Name>
+    <Name>poste</Name>
     <Properties>
       <Flags>BlocksMovement</Flags>
     </Properties>
@@ -2871,7 +2865,7 @@
   <!--Dresser-->
   <Item>
     <ID>Dresser</ID>
-    <Name>dresser</Name>
+    <Name>vestidor</Name>
     <SpriteID>
       <SpriteID>Dresser</SpriteID>
     </SpriteID>
@@ -2883,7 +2877,7 @@
   <!--Cabinet-->
   <Item>
     <ID>Cabinet</ID>
-    <Name>cabinet</Name>
+    <Name>gabinete</Name>
     <SpriteID>
       <SpriteID>Cabinet</SpriteID>
     </SpriteID>
@@ -2895,7 +2889,7 @@
   <!--Smelter-->
   <Item>
     <ID>Smelter</ID>
-    <Name>Smelter</Name>
+    <Name>Fundicion</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2916,8 +2910,8 @@
   <!--Trough-->
   <Item>
     <ID>Trough</ID>
-    <Name>trough</Name>
-    <ToolTip>Build in a Pasture to help feed animals.</ToolTip>
+    <Name>comedero</Name>
+    <ToolTip>Construir en un pasto para alimentar a los animales.</ToolTip>
     <Effect>
       <Effect>Storage</Effect>
       <Amount>32</Amount>
@@ -2933,7 +2927,7 @@
   <!--Prospector-->
   <Item>
     <ID>Prospector</ID>
-    <Name>Prospector</Name>
+    <Name>Puesto de buscadores</Name>
     <Value>3</Value>
     <SpriteID>
       <SpriteID>SelectionFloor</SpriteID>
@@ -2954,7 +2948,7 @@
   <!--WallTorch-->
   <Item>
     <ID>WallTorch</ID>
-    <Name>torch</Name>
+    <Name>antorcha</Name>
     <ToolTip>Proporciona luz</ToolTip>
     <GroupName>wall torch</GroupName>
     <Effect>
@@ -3020,7 +3014,7 @@
   <!--SkullPike-->
   <Item>
     <ID>SkullPike</ID>
-    <Name>skull on a pole</Name>
+    <Name>poste con craneo</Name>
     <Value>1</Value>
     <SpriteID>
       <SpriteID>Pike</SpriteID>
@@ -3041,7 +3035,7 @@
   <!--AlarmBell-->
   <Item>
     <ID>AlarmBell</ID>
-    <Name>alarm bell</Name>
+    <Name>alarma</Name>
     <Value>1</Value>
     <SpriteID>
       <SpriteID>AlarmBellBase</SpriteID>
@@ -3058,7 +3052,7 @@
   <!--Scaffolding-->
   <Item>
     <ID>Scaffolding</ID>
-    <Name>scaffolding</Name>
+    <Name>andamio</Name>
     <Value>2</Value>
     <SpriteID>
       <SpriteID>Scaffold</SpriteID>
@@ -3077,9 +3071,8 @@
   </Item>
   <!--SmoothStoneFloor-->
   <Item>
-    <ID>SmoothStoneFloor</ID>
-    <Prefix>smooth</Prefix>
-    <Name>suelo</Name>
+    <ID>SmoothStoneFloor</ID>    
+    <Name>suelo liso</Name>
     <GroupName>stone floor</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
@@ -3094,9 +3087,8 @@
   </Item>
   <!--SmoothStoneWall-->
   <Item>
-    <ID>SmoothStoneWall</ID>
-    <Prefix>smooth</Prefix>
-    <Name>muro</Name>
+    <ID>SmoothStoneWall</ID>    
+    <Name>muro liso</Name>
     <GroupName>stone wall</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
@@ -3617,9 +3609,8 @@
   </Item>
   <!--CarvedFloor-->
   <Item>
-    <ID>CarvedStoneFloor</ID>
-    <Prefix>carved</Prefix>
-    <Name>suelo</Name>
+    <ID>CarvedStoneFloor</ID>    
+    <Name>suelo tallado</Name>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3633,9 +3624,8 @@
   </Item>
   <!--CarvedWall-->
   <Item>
-    <ID>CarvedStoneWall</ID>
-    <Prefix>carved</Prefix>
-    <Name>muro</Name>
+    <ID>CarvedStoneWall</ID>    
+    <Name>muro tallado</Name>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
