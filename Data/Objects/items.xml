@@ -89,11 +89,9 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>RawStone</ID>
-    <Prefix>raw</Prefix>
+    <ID>RawStone</ID>    
     <ObtainDescription>Piedra comun</ObtainDescription>
-    <GroupName>stone</GroupName>
-    
+    <GroupName>piedra</GroupName>
     <Value>0</Value>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -104,8 +102,7 @@
   <Item>
     <ID>RawWood</ID>
     <Name>tronco</Name>
-    <ObtainDescription>Obtenido de arboles</ObtainDescription>
-    
+    <ObtainDescription>Obtenido de arboles</ObtainDescription>    
     <HasQuality>false</HasQuality>
     <WeaponSize>1000</WeaponSize>
     <SpriteID>
@@ -116,8 +113,7 @@
     <ID>RawCoal</ID>
     <Description>[ITEM_NAME].</Description>
     <ObtainDescription>Extraido de los troncos en el horno</ObtainDescription>
-    <GroupName>coal</GroupName>
-    
+    <GroupName>carbon</GroupName>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -126,10 +122,9 @@
   </Item>
   <Item>
     <ID>RawOre</ID>
-    <Name>ore</Name>
+    <Name>mineral</Name>
     <Description>[ITEM_NAME].</Description>
-    <ObtainDescription>Se encuentra en los muros de piedra</ObtainDescription>
-    
+    <ObtainDescription>Se encuentra en los muros de piedra</ObtainDescription>    
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -138,9 +133,8 @@
   </Item>
   <Item>
     <ID>RawGem</ID>
-    <Prefix>raw</Prefix>
     <ObtainDescription>Se encuentra en los muros de piedra</ObtainDescription>
-    <GroupName>gem</GroupName>
+    <GroupName>gema sin tratar</GroupName>
     <HasQuality>false</HasQuality>
     <SpriteID>
       <SpriteID>RawGem</SpriteID>
@@ -150,7 +144,7 @@
     <ID>RawCloth</ID>
     <Description>[ITEM_NAME].</Description>
     <ObtainDescription>Se obtiene del algodon o de la alpaca</ObtainDescription>
-    <GroupName>fiber</GroupName>
+    <GroupName>fibra</GroupName>
     <Value>1</Value>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -160,7 +154,7 @@
   </Item>
   <Item>
     <ID>RawHide</ID>
-    <Name>hide</Name>
+    <Name>piel</Name>
     <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <SpriteID>
@@ -213,8 +207,7 @@
   </Item>
   <Item>
     <ID>Fruit</ID>
-    <ObtainDescription>Grown in a farm or
-  foraged from trees</ObtainDescription>
+    <ObtainDescription>Obtenido de un cultivo o de un arbol</ObtainDescription>
     <GroupName>fruta</GroupName>
     <Effect>
       <Effect>Food</Effect>
@@ -241,7 +234,7 @@
   <Item>
     <ID>Egg</ID>
     <Name>huevo</Name>
-    <Description>A raw [ITEM_NAME].</Description>
+    <Description>[ITEM_NAME].</Description>
     <ObtainDescription>Obtenido de animales</ObtainDescription>      
     <Effect>
       <Effect>Food</Effect>
@@ -254,9 +247,8 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>Bread</ID>
-    <Prefix>loaf of</Prefix>
-    <Name>pan</Name>
+    <ID>Bread</ID>    
+    <Name>hogaza de pan</Name>
     <ObtainDescription>Al horno en una cocina</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
@@ -271,7 +263,7 @@
   <Item>
     <ID>Meat</ID>
     <Name>carne</Name>
-    <Description>Raw [ITEM_NAME].</Description>
+    <Description>Carne cruda.</Description>
     <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
@@ -297,7 +289,7 @@
   <Item>
     <ID>Sandwich</ID>
     <Name>sandwich</Name>
-    <Description>[AN_ITEM_NAME].  The pinnacle of culinary art.</Description>
+    <Description>[AN_ITEM_NAME].  El pinaculo del arte culinario.</Description>
     <ObtainDescription>Hecho en la cocina</ObtainDescription>
     <Effect>
       <Effect>Food</Effect>
@@ -356,7 +348,6 @@
     <ID>Bone</ID>
     <Name>hueso</Name>
     <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
-    
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -367,7 +358,6 @@
     <ID>Skull</ID>
     <Name>calavera</Name>
     <ObtainDescription>Sacado de animales en la carniceria</ObtainDescription>
-    
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -378,7 +368,6 @@
     <ID>Block</ID>
     <Name>bloque</Name>
     <ObtainDescription>Sacado de la cortadora</ObtainDescription>
-    
     <BaseValue>1</BaseValue>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -390,7 +379,6 @@
     <ID>Plank</ID>
     <Name>tablon</Name>
     <ObtainDescription>Cortado en la sierra</ObtainDescription>
-    
     <HasQuality>false</HasQuality>
     <WeaponSize>100</WeaponSize>
     <SpriteID>
@@ -401,7 +389,6 @@
     <ID>Bar</ID>
     <Name>lingote</Name>
     <ObtainDescription>Creado en la forja</ObtainDescription>
-    
     <HasQuality>false</HasQuality>
     <WeaponSize>20</WeaponSize>
     <SpriteID>
@@ -409,9 +396,8 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>Gem</ID>
-    <Prefix>cut</Prefix>
-    <Name>gema</Name>
+    <ID>Gem</ID>    
+    <Name>gema cortada</Name>
     <ObtainDescription>Creado en la cortadora de gemas</ObtainDescription>
     <SpriteID>
       <SpriteID>Gem</SpriteID>
@@ -421,7 +407,7 @@
     <ID>Bolt</ID>
     <Name>rollo</Name>
     <ObtainDescription>Creado en el telar</ObtainDescription>
-    <GroupName>bolt of cloth</GroupName>
+    <GroupName>rollo de tela</GroupName>
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -474,8 +460,8 @@
   </Item>
   <Item>
     <ID>PetRock</ID>
-    <Name>pet rock</Name>
-    <Description>[AN_ITEM_NAME].  Friendship guaranteed.</Description>
+    <Name>mascota de piedra</Name>
+    <Description>[AN_ITEM_NAME].  Amistad garantizada.</Description>
     <Value>25</Value>
     <WeaponSize>10</WeaponSize>
     <SpriteID>
@@ -493,9 +479,8 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>CommemorativeCoin</ID>
-    <Prefix>commemorative</Prefix>
-    <Name>moneda</Name>
+    <ID>CommemorativeCoin</ID>    
+    <Name>moneda conmemorativa</Name>
     <Description>[AN_ITEM_NAME].  Celebra la ocasion con una moneda.</Description>
     <Value>25</Value>
     <WeaponSize>10</WeaponSize>
@@ -526,7 +511,7 @@
   <Item>
     <ID>GemmedRing</ID>
     <Name>anillo</Name>
-    <GroupName>gemmed ring</GroupName>
+    <GroupName>anillo de gema</GroupName>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -547,7 +532,7 @@
   <Item>
     <ID>GemmedNecklace</ID>
     <Name>collar</Name>
-    <GroupName>gemmed necklace</GroupName>
+    <GroupName>collar de gema</GroupName>
     <Value>25</Value>
     <WeaponSize>0</WeaponSize>
     <SpriteID>
@@ -632,7 +617,7 @@
   <Item>
     <ID>Hatch</ID>
     <Name>escotilla</Name>
-    <Description>[AN_ITEM_NAME].  Converts to a floor when power is provided.</Description>
+    <Description>[AN_ITEM_NAME].  Convierte el suelo proporcionandole poder.</Description>
     <ObtainDescription>Creado en el taller de ingenieria</ObtainDescription>
     <HasQuality>false</HasQuality>
     <WeaponSize>10</WeaponSize>
@@ -731,7 +716,7 @@
     <ID>WoodDoor</ID>
     <Name>puerta</Name>
     <Description>[AN_ITEM_NAME].  Se abre y se cierra.</Description>
-    <GroupName>wood door</GroupName>
+    <GroupName>puerta de madera</GroupName>
     
     <Value>3</Value>
     <WeaponSize>1000</WeaponSize>      
@@ -743,7 +728,7 @@
     <ID>StoneDoor</ID>
     <Name>puerta</Name>
     <Description>[AN_ITEM_NAME].  Se abre y se cierra.</Description>
-    <GroupName>stone door</GroupName>
+    <GroupName>puerta de piedra</GroupName>
     
     <Value>3</Value>
     <WeaponSize>1000</WeaponSize>
@@ -778,7 +763,6 @@
     <ID>Chair</ID>
     <Name>silla</Name>
     <ObtainDescription>Creado en la mesa de trabajo o en la carpinteria</ObtainDescription>
-    
     <Value>5</Value>
     <WeaponSize>200</WeaponSize>
     <SpriteID>
@@ -801,7 +785,6 @@
     <ID>Bed</ID>
     <Name>cama</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
-    
     <Value>5</Value>
     <WeaponSize>2000</WeaponSize>
     <SpriteID>
@@ -816,7 +799,6 @@
     <ID>FancyBed</ID>
     <Name>cama con dosel</Name>
     <ObtainDescription>Creado en la carpinteria</ObtainDescription>
-    
     <Value>5</Value>
     <WeaponSize>2000</WeaponSize>
     <SpriteID>
@@ -833,7 +815,6 @@
   <Item>
     <ID>Statue</ID>
     <Name>estatua</Name>
-    
     <Value>25</Value>
     <WeaponSize>10000</WeaponSize>
     <SpriteID>
@@ -844,7 +825,6 @@
     <ID>Pickaxe</ID>
     <Name>pico</Name>
     <Description>[AN_ITEM_NAME].  Usado para minar.</Description>
-    
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>1</CombatRatingModifier>
     <WeaponDef>
@@ -909,7 +889,6 @@
   <Item>
     <ID>Sword</ID>
     <Name>espada</Name>
-    
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -941,7 +920,6 @@
         <DefendType>Thrust</DefendType>
       </DefendMove>
       <Point>1</Point>
-      
       <Edge>0.6833333</Edge>
       <BluntModifier>0.2875</BluntModifier>
       <VelocityModifier>1.0</VelocityModifier>
@@ -964,7 +942,6 @@
   <Item>
     <ID>HandAxe</ID>
     <Name>hacha</Name>
-    
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -1005,7 +982,6 @@
   <Item>
     <ID>Hammer</ID>
     <Name>martillo</Name>
-    
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -1046,7 +1022,6 @@
   <Item>
     <ID>Claymore</ID>
     <Name>espadon</Name>
-    
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
     <WeaponSize>200</WeaponSize>
@@ -1067,7 +1042,6 @@
         <AttackDelay>0.75</AttackDelay>
         <DefendType>Swing</DefendType>
       </DefendMove>
-      
       <Edge>0.84166</Edge>
       <BluntModifier>0.84166</BluntModifier>
       <VelocityModifier>1.0</VelocityModifier>
@@ -1090,7 +1064,6 @@
   <Item>
     <ID>BattleAxe</ID>
     <Name>hacha de batalla</Name>
-    
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
     <WeaponSize>200</WeaponSize>
@@ -1131,7 +1104,6 @@
   <Item>
     <ID>Warhammer</ID>
     <Name>martillo de guerra</Name>
-    
     <TwoHanded>true</TwoHanded>
     <Value>20</Value>
     <WeaponSize>200</WeaponSize>
@@ -1173,7 +1145,6 @@
   <Item>
     <ID>Shield</ID>
     <Name>escudo</Name>
-    
     <Value>20</Value>
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
@@ -1222,7 +1193,6 @@
       <Effect>LightSource</Effect>
       <Amount>16</Amount>
     </Effect>
-    
     <HasQuality>false</HasQuality>
     <WeaponSize>25</WeaponSize>
     <CombatRatingModifier>2</CombatRatingModifier>
@@ -1262,7 +1232,6 @@
   <Item>
     <ID>Helmet</ID>
     <Name>casco</Name>
-    
     <Value>8.5</Value>
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Head</EquipSlot>
@@ -2400,10 +2369,8 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>WornHelmet</ID>
-    <Prefix>worn</Prefix>
-    <Name>casco</Name>
-    
+    <ID>WornHelmet</ID>    
+    <Name>casco desgastado</Name>
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Head</EquipSlot>
     <EquippedMovePenalty>4</EquippedMovePenalty>
@@ -2419,10 +2386,8 @@
     <EquippedDetailSpriteID>GnomeHelmetHighlight</EquippedDetailSpriteID>
   </Item>
   <Item>
-    <ID>WornBreastplate</ID>
-    <Prefix>worn</Prefix>
-    <Name>coraza</Name>
-    
+    <ID>WornBreastplate</ID>    
+    <Name>coraza desgastada</Name>
     <CombatRatingModifier>2</CombatRatingModifier>
     <EquipSlot>Body</EquipSlot>
     <EquippedMovePenalty>7</EquippedMovePenalty>
@@ -2438,10 +2403,8 @@
     <EquippedDetailSpriteID>GnomeBreastPlateHighlight</EquippedDetailSpriteID>
   </Item>
   <Item>
-    <ID>WornPauldron</ID>
-    <Prefix>worn</Prefix>
-    <Name>hombrera</Name>
-    
+    <ID>WornPauldron</ID>    
+    <Name>hombrera desgastada</Name>    
     <CombatRatingModifier>1</CombatRatingModifier>
     <EquipSlot>Arm</EquipSlot>
     <EquippedMovePenalty>2.5</EquippedMovePenalty>
@@ -2457,10 +2420,8 @@
     <EquippedDetailSpriteID>GnomeRightPauldronHighlight</EquippedDetailSpriteID>
   </Item>
   <Item>
-    <ID>WornGreave</ID>
-    <Prefix>worn</Prefix>
-    <Name>greba</Name>
-    
+    <ID>WornGreave</ID>    
+    <Name>greba desgastada</Name>
     <CombatRatingModifier>1</CombatRatingModifier>
     <EquipSlot>Leg</EquipSlot>
     <EquippedMovePenalty>2.5</EquippedMovePenalty>
@@ -2474,10 +2435,8 @@
     </SpriteID>
   </Item>
   <Item>
-    <ID>WornGauntlet</ID>
-    <Prefix>worn</Prefix>
-    <Name>guantelete</Name>
-    
+    <ID>WornGauntlet</ID>    
+    <Name>guantelete desgastado</Name>
     <CombatRatingModifier>0.5</CombatRatingModifier>
     <EquipSlot>Glove</EquipSlot>
     <EquippedMovePenalty>1</EquippedMovePenalty>
@@ -2494,9 +2453,7 @@
   </Item>
   <Item>
     <ID>WornBoot</ID>
-    <Prefix>worn</Prefix>
-    <Name>bota</Name>
-    
+    <Name>bota desgastada</Name>
     <CombatRatingModifier>0.5</CombatRatingModifier>
     <EquipSlot>Foot</EquipSlot>
     <EquippedMovePenalty>1</EquippedMovePenalty>
@@ -2512,10 +2469,8 @@
     <EquippedDetailSpriteID>GnomeMetalRightBootHighlight</EquippedDetailSpriteID>
   </Item>
   <Item>
-    <ID>WornSword</ID>
-    <Prefix>worn</Prefix>
-    <Name>espada</Name>
-    
+    <ID>WornSword</ID>    
+    <Name>espada desgastada</Name>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
     <WeaponDef>
@@ -2567,10 +2522,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornHandAxe</ID>
-    <Prefix>worn</Prefix>
-    <Name>hacha de mano</Name>
-    
+    <ID>WornHandAxe</ID>    
+    <Name>hacha de mano desgastada</Name>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
     <WeaponDef>
@@ -2608,10 +2561,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornHammer</ID>
-    <Prefix>worn</Prefix>
-    <Name>martillo</Name>
-    
+    <ID>WornHammer</ID>    
+    <Name>martillo desgastado</Name>
     <WeaponSize>100</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
     <WeaponDef>
@@ -2649,10 +2600,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornClaymore</ID>
-    <Prefix>worn</Prefix>
-    <Name>espadon</Name>
-    
+    <ID>WornClaymore</ID>    
+    <Name>espadon desgastado</Name>
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
     <CombatRatingModifier>6</CombatRatingModifier>
@@ -2693,10 +2642,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornBattleAxe</ID>
-    <Prefix>worn</Prefix>
-    <Name>hacha de batalla</Name>
-    
+    <ID>WornBattleAxe</ID>    
+    <Name>hacha de batalla desgastada</Name>
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
     <CombatRatingModifier>6</CombatRatingModifier>
@@ -2734,10 +2681,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornWarhammer</ID>
-    <Prefix>worn</Prefix>
-    <Name>martillo de guerra</Name>
-    
+    <ID>WornWarhammer</ID>    
+    <Name>martillo de guerra desgastado</Name>
     <TwoHanded>true</TwoHanded>
     <WeaponSize>200</WeaponSize>
     <CombatRatingModifier>6</CombatRatingModifier>
@@ -2776,10 +2721,8 @@
     </HeldSpriteID>
   </Item>
   <Item>
-    <ID>WornShield</ID>
-    <Prefix>worn</Prefix>
-    <Name>escudo</Name>
-    
+    <ID>WornShield</ID>    
+    <Name>escudo desgastado</Name>
     <WeaponSize>50</WeaponSize>
     <CombatRatingModifier>3</CombatRatingModifier>
     <WeaponDef>
@@ -2823,7 +2766,7 @@
     <ID>MetalSliver</ID>
     <Name>fragmento</Name>
     <ObtainDescription>Creado en una fundicion</ObtainDescription>
-    <GroupName>metal sliver</GroupName>
+    <GroupName>fragmento de metal</GroupName>
     
     <Value>0.2</Value>
     <HasQuality>false</HasQuality>
@@ -2846,7 +2789,7 @@
   <Item>
     <ID>Mushroom</ID>
     <ObtainDescription>Crecido en un cultivo</ObtainDescription>
-    <GroupName>mushroom</GroupName>
+    <GroupName>seta</GroupName>
     <Effect>
       <Effect>Food</Effect>
       <Amount>10</Amount>
@@ -2904,7 +2847,7 @@
     <Name>tortilla</Name>
     <Description>[ITEM_NAME].</Description>
     <ObtainDescription>Hecho en una cocina.</ObtainDescription>
-    <GroupName>mushroom omelette</GroupName>
+    <GroupName>tortilla de setas</GroupName>
     <Effect>
       <Effect>Food</Effect>
       <Amount>35</Amount>
@@ -2966,7 +2909,7 @@
   <Item>
     <ID>WoodenShield</ID>
     <Name>escudo</Name>
-    <GroupName>wooden shield</GroupName>
+    <GroupName>escudo de madera</GroupName>
     
     <Value>20</Value>
     <WeaponSize>50</WeaponSize>
@@ -3056,7 +2999,7 @@
   <Item>
     <ID>StoneSword</ID>
     <Name>espada</Name>
-    <GroupName>stone sword</GroupName>
+    <GroupName>espada de piedra</GroupName>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -3112,7 +3055,7 @@
   <Item>
     <ID>StoneHandAxe</ID>
     <Name>hacha de mano</Name>
-    <GroupName>stone hand axe</GroupName>
+    <GroupName>hacha de mano de piedra</GroupName>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -3154,7 +3097,7 @@
   <Item>
     <ID>StoneHammer</ID>
     <Name>martillo</Name>
-    <GroupName>stone hammer</GroupName>
+    <GroupName>martillo de piedra</GroupName>
     
     <Value>20</Value>
     <WeaponSize>100</WeaponSize>
@@ -3238,8 +3181,8 @@
   </Item>
   <Item>
     <ID>Silica</ID>
-    <ObtainDescription>Obtained through Prospecting</ObtainDescription>
-    <GroupName>silica</GroupName>
+    <ObtainDescription>Obtenido en un puesto de exploradores</ObtainDescription>
+    <GroupName>silice</GroupName>
     
     <HasQuality>false</HasQuality>
     <WeaponSize>0</WeaponSize>
@@ -3285,7 +3228,7 @@
   <Item>
     <ID>ArtificialArm</ID>
     <Name>brazo</Name>
-    <GroupName>prosthetic arm</GroupName>
+    <GroupName>brazo protesico</GroupName>
     
     <SpriteID>
       <SpriteID>ArtificialRightArmItem</SpriteID>
@@ -3299,7 +3242,7 @@
   <Item>
     <ID>ArtificialHand</ID>
     <Name>mano</Name>
-    <GroupName>prosthetic hand</GroupName>
+    <GroupName>mano prostesica</GroupName>
     
     <SpriteID>
       <SpriteID>ArtificialRightHandItem</SpriteID>
@@ -3309,7 +3252,7 @@
   <Item>
     <ID>ArtificialLeg</ID>
     <Name>pierna</Name>
-    <GroupName>prosthetic leg</GroupName>
+    <GroupName>pierna protesica</GroupName>
     
     <SpriteID>
       <SpriteID>ArtificialRightLegItem</SpriteID>
@@ -3319,7 +3262,7 @@
   <Item>
     <ID>ArtificialFoot</ID>
     <Name>pie</Name>
-    <GroupName>prosthetic foot</GroupName>
+    <GroupName>pie prostesico</GroupName>
     
     <SpriteID>
       <SpriteID>ArtificialRightLegItem</SpriteID>
@@ -3348,7 +3291,7 @@
   <Item>
     <ID>AutomatonCore</ID>
     <Name>nucleo</Name>
-    <GroupName>automaton core</GroupName>
+    <GroupName>nucleo de automata</GroupName>
     
     <HasQuality>false</HasQuality>
     <SpriteID>
