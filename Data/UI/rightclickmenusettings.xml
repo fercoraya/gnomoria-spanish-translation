@@ -7,86 +7,86 @@
   -->
   <!--Terrain-->
 	<MenuItem>
-	  <Text>Terreno</Text>
+	  <Text>Terrain</Text>
 	  <MenuItem>
-		<Text>Minar</Text>         
+		<Text>Mine</Text>         
 		  <MenuItem>
-			<Text>Muro</Text>
-			<ToolTip>Quitar Muro</ToolTip>
+			<Text>Wall</Text>
+			<ToolTip>Remove wall</ToolTip>
 			<Action>
-			  <Type>Minar</Type>
+			  <Type>Mine</Type>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Escalera hacia arriba</Text>
-			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>
+			<Text>Stairs Up</Text>
+			<ToolTip>Mine the wall into stairs going up</ToolTip>
 			<Action>
 			  <Type>MineStairsUp</Type>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Rampa hacia arriba</Text>
-			<ToolTip>Mina el muro para hacer una escalera hacia arriba</ToolTip>
+			<Text>Ramp Up</Text>
+			<ToolTip>Mine the wall into a ramp going up</ToolTip>
 			<Action>
 			  <Type>MineRampUp</Type>
 			</Action>
 		  </MenuItem>          
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Cavar</Text>
+		<Text>Dig</Text>
 		  <MenuItem>
-			<Text>Agujero</Text>
-			<ToolTip>Quita el muro del nivel inferior</ToolTip>
+			<Text>Hole</Text>
+			<ToolTip>Remove floor and section below</ToolTip>
 			<Action>
 			  <Type>DigHole</Type>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Escaleras hacia abajo</Text>
-			<ToolTip>Mina el muro para hacer una escalera hacia abajo</ToolTip>
+			<Text>Stairs Down</Text>
+			<ToolTip>Remove floor and mine section below into stairs</ToolTip>
 			<Action>
 			  <Type>DigStairsDown</Type>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Rampa hacia abajo</Text>
-			<ToolTip>Mina el muro para hacer una rampa hacia abajo</ToolTip>
+			<Text>Ramp Down</Text>
+			<ToolTip>Remove floor and mine section below into a ramp</ToolTip>
 			<Action>
 			  <Type>DigRampDown</Type>
 			</Action>
 		  </MenuItem>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Quitar suelo</Text>
-		<ToolTip>Quita el suelo dejando la seccion de abajo sin tocar</ToolTip>
+		<Text>Remove Floor</Text>
+		<ToolTip>Remove floor leaving the section below untouched</ToolTip>
 		<Action>
 		  <Type>RemoveFloor</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Quitar Rampa</Text>
-		<ToolTip>Quita una rampa</ToolTip>
+		<Text>Remove Ramp</Text>
+		<ToolTip>Remove ramp</ToolTip>
 		<Action>
 		  <Type>RemoveRamp</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Cambiar muro</Text>
-		<ToolTip>Cambia un muro por otro nuevo</ToolTip>
+		<Text>Replace Wall</Text>
+		<ToolTip>Replaces an existing wall with a new one</ToolTip>
 		<Action>
 		  <Type>ReplaceWall</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Cambiar suelo</Text>
-		<ToolTip>Cambia un suelo por otro nuevo</ToolTip>
+		<Text>Replace Floor</Text>
+		<ToolTip>Replaces an existing floor with a new one</ToolTip>
 		<Action>
 		  <Type>ReplaceFloor</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Tapar agujero</Text>
-		<ToolTip>Rellena un agujero del piso de abajo</ToolTip>
+		<Text>Fill Hole</Text>
+		<ToolTip>Build a wall from above</ToolTip>
 		<Action>
 		  <Type>FillHole</Type>
 		</Action>
@@ -94,59 +94,59 @@
 	</MenuItem>
 	<!--Agriculture-->
 	<MenuItem>
-	  <Text>Agricultura</Text>
+	  <Text>Agriculture</Text>
 	  <MenuItem>
-		<Text>Granga</Text>
-		<ToolTip>Cultivar</ToolTip>
+		<Text>Farm</Text>
+		<ToolTip>Grow crops</ToolTip>
 		<Action>
 		  <Type>CreateFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Granja subterranea</Text>
-		<ToolTip>Cultivar bajo tierra</ToolTip>
+		<Text>Underground Farm</Text>
+		<ToolTip>Grow underground crops</ToolTip>
 		<Action>
 		  <Type>CreateUndergroundFarm</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Pasto</Text>
-		<ToolTip>El ganado se cria en un pasto</ToolTip>
+		<Text>Pasture</Text>
+		<ToolTip>Livestock graze in a pasture</ToolTip>
 		<Action>
 		  <Type>CreatePasture</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Arboleda</Text>
-		<ToolTip>Planta, recolecta y tala arboles</ToolTip>
+		<Text>Grove</Text>
+		<ToolTip>Grow and harvest trees</ToolTip>
 		<Action>
 		  <Type>CreateGrove</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Plantar</Text>
-		<ToolTip>Plantar arboles</ToolTip>
+		<Text>Plant Trees</Text>
+		<ToolTip>Plant trees</ToolTip>
 		<Action>
 		  <Type>PlantTree</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Talar</Text>
-		<ToolTip>Tala arboles</ToolTip>
+		<Text>Fell Trees</Text>
+		<ToolTip>Cut trees down</ToolTip>
 		<Action>
 		  <Type>FellTree</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Esquejar</Text>
-		<ToolTip>Corta una rama de arbol para replantar</ToolTip>
+		<Text>Cut clipping</Text>
+		<ToolTip>Cut a clipping from a tree</ToolTip>
 		<Action>
 		  <Type>CutClipping</Type>
 		</Action>
 	  </MenuItem>
 	  <MenuItem>
-		<Text>Recolectar</Text>
-		<ToolTip>Recoge fruta del arbol</ToolTip>
+		<Text>Forage</Text>
+		<ToolTip>Forage for food</ToolTip>
 		<Action>
 		  <Type>Forage</Type>
 		</Action>
@@ -154,35 +154,35 @@
 	</MenuItem>
 	<!--Build-->
 	<MenuItem>
-	  <Text>Construir</Text>
+	  <Text>Build</Text>
 	  <!--Workshop-->
 	  <MenuItem>
-		<Text>Mesa de trabajo</Text>
+		<Text>Workshop</Text>
 		<MenuItem>
-		  <Text>Mesa de trabajo simple</Text>
+		  <Text>CrudeWorkbench</Text>
 		  <Action>
 			<Type>BuildWorkshop</Type>
 			<ID>CrudeWorkbench</ID>
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Madera</Text>
+		  <Text>Wood</Text>
 		  <MenuItem>
-			<Text>Lenyar</Text>
+			<Text>Woodcutter</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Woodcutter</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Carpinteria</Text>
+			<Text>Carpenter</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Carpenter</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Tallar madera</Text>
+			<Text>Woodcarver</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Woodcarver</ID>
@@ -190,23 +190,23 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Piedra</Text>
+		  <Text>Stone</Text>
 		  <MenuItem>
-			<Text>Cantera</Text>
+			<Text>Stonecutter</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Stonecutter</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Albanyileria</Text>
+			<Text>Stonemason</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Stonemason</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Esculpir</Text>
+			<Text>Stonecarver</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Stonecarver</ID>
@@ -214,16 +214,16 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Tela</Text>
+		  <Text>Cloth</Text>
 		  <MenuItem>
-			<Text>Telar</Text>
+			<Text>Loom</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Loom</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Sastrería</Text>
+			<Text>Tailor</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Tailor</ID>
@@ -231,46 +231,46 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Comida/Bebida</Text>
+		  <Text>Food/Drink</Text>
 		  <MenuItem>
-			<Text>Carniceria</Text>
+			<Text>Butcher</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Butcher</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Cocina</Text>
+			<Text>Kitchen</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Kitchen</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Destileria</Text>
+			<Text>Distillery</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Distillery</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Pozo</Text>
+			<Text>Well</Text>
 			<Action>
 			  <Type>BuildWell</Type>
 			</Action>
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Gema</Text>
+		  <Text>Gem</Text>
 		  <MenuItem>
-			<Text>Tallar gema</Text>
+			<Text>Gemcutter</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Gemcutter</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Joyeria</Text>
+			<Text>Jeweler</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Jeweler</ID>
@@ -280,49 +280,49 @@
 		<MenuItem>
 		  <Text>Metal</Text>
 		  <MenuItem>
-			<Text>Horno</Text>
+			<Text>Furnace</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Furnace</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Forja</Text>
+			<Text>Forge</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Forge</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Fundicion</Text>
+			<Text>Smelter</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Smelter</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Herreria</Text>
+			<Text>Blacksmith</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Blacksmith</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Metalurgia</Text>
+			<Text>Metalworker</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Metalworker</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Armas</Text>
+			<Text>Weaponsmith</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Weaponsmith</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Armaduras</Text>
+			<Text>Armorer</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Armorer</ID>
@@ -330,23 +330,23 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Mecanismo</Text>
+		  <Text>Mechanism</Text>
 		  <MenuItem>
-			<Text>Banco caldelero</Text>
+			<Text>TinkerBench</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>TinkerBench</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Tienda de maquina</Text>
+			<Text>MachineShop</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>MachineShop</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Ingenieria</Text>
+			<Text>Engineer</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Engineer</ID>
@@ -354,9 +354,9 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Militar</Text>
+		  <Text>Military</Text>
 		  <MenuItem>
-			<Text>Campo de entrenamiento</Text>
+			<Text>TrainingGrounds</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>TrainingGrounds</ID>
@@ -364,30 +364,30 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Miscelanea</Text>
+		  <Text>Misc</Text>
 		  <MenuItem>
-			<Text>Horno</Text>
+			<Text>Kiln</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Kiln</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Peletero</Text>
+			<Text>Leatherworker</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Leatherworker</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Mercado</Text>
+			<Text>MarketStall</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>MarketStall</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Tallar huesos</Text>
+			<Text>Bonecarver</Text>
 			<Action>
 			  <Type>BuildWorkshop</Type>
 			  <ID>Bonecarver</ID>
@@ -404,25 +404,25 @@
 	  </MenuItem>
 	  <!--Mechanism-->
 	  <MenuItem>
-		<Text>Mecanismo</Text>
+		<Text>Mechanism</Text>
 		<MenuItem>
-		  <Text>Vincular</Text>
+		  <Text>Linkage</Text>
 		  <MenuItem>
-			<Text>Eje</Text>
+			<Text>Axle</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>Axle</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Eje vertical</Text>
+			<Text>VerticalAxle</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>VerticalAxle</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Caja de cambios</Text>
+			<Text>GearBox</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>GearBox</ID>
@@ -430,16 +430,16 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Interruptor</Text>
+		  <Text>Switch</Text>
 		  <MenuItem>
-			<Text>Palanca</Text>
+			<Text>Lever</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>Lever</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Palanca de presion</Text>
+			<Text>PressurePlate</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>PressurePlate</ID>
@@ -447,7 +447,7 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Dispositivo</Text>
+		  <Text>Device</Text>
 		  <MenuItem>
 			<Text>MechanicalWall</Text>
 			<Action>
@@ -456,14 +456,14 @@
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Escotilla</Text>
+			<Text>Hatch</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>Hatch</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Bomba</Text>
+			<Text>Pump</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>Pump</ID>
@@ -471,16 +471,16 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Trampas</Text>
+		  <Text>Self Powered Trap</Text>
 		  <MenuItem>
-			<Text>Trampa de espinas</Text>
+			<Text>SpikeTrap</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>SpikeTrap</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Trampa de cuchillas</Text>
+			<Text>BladeTrap</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>BladeTrap</ID>
@@ -488,7 +488,7 @@
 		  </MenuItem>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Fuente de alimentacion</Text>
+		  <Text>Power Source</Text>
 		  <MenuItem>
 			<Text>Handcrank</Text>
 			<Action>
@@ -497,14 +497,14 @@
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Molino</Text>
+			<Text>WindMill</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>WindMill</ID>
 			</Action>
 		  </MenuItem>
 		  <MenuItem>
-			<Text>Motor de vapor</Text>
+			<Text>SteamEngine</Text>
 			<Action>
 			  <Type>BuildMechanism</Type>
 			  <ID>SteamEngine</ID>
@@ -514,7 +514,7 @@
 	  </MenuItem>
 	  <!--Furniture-->
 	  <MenuItem>
-		<Text>Muebles</Text>
+		<Text>Furniture</Text>
 		<MenuItem>
 		  <Text>door</Text>
 		  <Action>

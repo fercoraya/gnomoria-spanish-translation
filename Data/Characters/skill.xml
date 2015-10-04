@@ -7,208 +7,208 @@
   -->
   <Item>
     <ID>Mining</ID>
-    <Name>Minar</Name>
-    <Title>Minero</Title>
+    <Name>Mining</Name>
+    <Title>Miner</Title>
   </Item>
   <Item>
     <ID>Masonry</ID>
-    <Name>Masonería</Name>
-    <Title>Masón</Title>
+    <Name>Masonry</Name>
+    <Title>Mason</Title>
   </Item>
   <Item>
     <ID>Stonecarving</ID>
-    <Name>Esculpir</Name>
-    <Title>Escultor</Title>
+    <Name>Stonecarving</Name>
+    <Title>Stonecarver</Title>
   </Item>
   <Item>
     <ID>Woodcutting</ID>
-    <Name>Leñar</Name>
-    <Title>Leñador</Title>
+    <Name>Woodcutting</Name>
+    <Title>Woodcutter</Title>
   </Item>
   <Item>
     <ID>Carpentry</ID>
-    <Name>Carpintería</Name>
-    <Title>Carpintero</Title>
+    <Name>Carpentry</Name>
+    <Title>Carpenter</Title>
   </Item>
   <Item>
     <ID>Woodcarving</ID>
-    <Name>Tallar</Name>
-    <Title>Tallador</Title>
+    <Name>Woodcarving</Name>
+    <Title>Woodcarver</Title>
   </Item>
   <Item>
     <ID>Smelting</ID>
-    <Name>Fundición</Name>
-    <Title>Fundidor</Title>
+    <Name>Smelting</Name>
+    <Title>Smelter</Title>
   </Item>
   <Item>
     <ID>Blacksmithing</ID>
-    <Name>Herrería</Name>
-    <Title>Herrero</Title>
+    <Name>Blacksmithing</Name>
+    <Title>Blacksmith</Title>
   </Item>
   <Item>
     <ID>Metalworking</ID>
-    <Name>Metalurgia</Name>
-    <Title>Metalúrgico</Title>
+    <Name>Metalworking</Name>
+    <Title>Metalworker</Title>
   </Item>
   <Item>
     <ID>WeaponCrafting</ID>
-    <Name>Artesanía de armas</Name>
-    <Title>Artesano de armas</Title>
+    <Name>Weapon Crafting</Name>
+    <Title>Weaponsmith</Title>
   </Item>
   <Item>
     <ID>ArmorCrafting</ID>
-    <Name>Armería</Name>
-    <Title>Armero</Title>
+    <Name>Armor Crafting</Name>
+    <Title>Armorer</Title>
   </Item>
   <Item>
     <ID>Gemcutting</ID>
-    <Name>Tallar de gemas</Name>
-    <Title>Tallador de gemas</Title>
+    <Name>Gemcutting</Name>
+    <Title>Gemcutter</Title>
   </Item>
   <Item>
     <ID>JewelryMaking</ID>
-    <Name>Joyería</Name>
-    <Title>Joyero</Title>
+    <Name>Jewelry Making</Name>
+    <Title>Jeweler</Title>
   </Item>
   <Item>
     <ID>Weaving</ID>
-    <Name>Tejer</Name>
-    <Title>Tejedor</Title>
+    <Name>Weaving</Name>
+    <Title>Weaver</Title>
   </Item>
   <Item>
     <ID>Tailoring</ID>
-    <Name>Sastrería</Name>
-    <Title>Sastre</Title>
+    <Name>Tailoring</Name>
+    <Title>Tailor</Title>
   </Item>
   <Item>
     <ID>Pottery</ID>
-    <Name>Cerámica</Name>
-    <Title>Ceramista</Title>
+    <Name>Pottery</Name>
+    <Title>Potter</Title>
   </Item>
   <Item>
     <ID>Leatherworking</ID>
-    <Name>Peletería</Name>
-    <Title>Peletero</Title>
+    <Name>Leatherworking</Name>
+    <Title>Leatherworker</Title>
   </Item>
   <Item>
     <ID>Tinkering</ID>
-    <Name>Trabajos manuales</Name>
-    <Title>Trabajador manual</Title>
+    <Name>Tinkering</Name>
+    <Title>Tinkerer</Title>
   </Item>
   <Item>
     <ID>Machining</ID>
-    <Name>Laboreo</Name>
-    <Title>Laborista</Title>
+    <Name>Machining</Name>
+    <Title>Machinist</Title>
   </Item>
   <Item>
     <ID>Engineering</ID>
-    <Name>Ingeniería</Name>
-    <Title>Ingeniero</Title>
+    <Name>Engineering</Name>
+    <Title>Engineer</Title>
   </Item>
   <Item>
     <ID>Mechanic</ID>
-    <Name>Mecánica</Name>
-    <Title>Mecánico</Title>
+    <Name>Mechanic</Name>
+    <Title>Mechanic</Title>
   </Item>
   <Item>
     <ID>AnimalHusbandry</ID>
-    <Name>Ganadería</Name>
-    <Title>Ganadero</Title>
+    <Name>Animal Husbandry</Name>
+    <Title>Rancher</Title>
   </Item>
   <Item>
     <ID>Butchery</ID>
-    <Name>Carnicería</Name>
-    <Title>Carnicero</Title>
+    <Name>Butchery</Name>
+    <Title>Butcher</Title>
   </Item>
   <Item>
     <ID>Horticulture</ID>
-    <Name>Horticultura</Name>
-    <Title>Hortelano</Title>
+    <Name>Horticulture</Name>
+    <Title>Gardener</Title>
   </Item>
   <Item>
     <ID>Farming</ID>
-    <Name>Agricultura</Name>
-    <Title>Agricultor</Title>
+    <Name>Farming</Name>
+    <Title>Farmer</Title>
   </Item>
   <Item>
     <ID>Cooking</ID>
-    <Name>Cocina</Name>
-    <Title>Cocinero</Title>
+    <Name>Cooking</Name>
+    <Title>Chef</Title>
   </Item>
   <Item>
     <ID>Brewing</ID>
-    <Name>Fabricación de cerveza</Name>
-    <Title>Cervecero</Title>
+    <Name>Brewing</Name>
+    <Title>Brewer</Title>
   </Item>
   <Item>
     <ID>Construction</ID>
-    <Name>Constructión</Name>
-    <Title>Constructor</Title>
+    <Name>Construction</Name>
+    <Title>Builder</Title>
   </Item>
   <Item>
     <ID>Hauling</ID>
-    <Name>Transporte</Name>
-    <Title>Transportista</Title>
+    <Name>Hauling</Name>
+    <Title>Hauler</Title>
   </Item>
   <Item>
     <ID>NaturalAttack</ID>
-    <Name>Golpe</Name>
-    <Title>Golpeador</Title>
+    <Name>Fighting</Name>
+    <Title>Fighter</Title>
   </Item>
   <Item>
     <ID>Brawling</ID>
-    <Name>Lucha</Name>
-    <Title>Luchador</Title>
+    <Name>Brawling</Name>
+    <Title>Brawler</Title>
   </Item>
   <Item>
     <ID>Sword</ID>
-    <Name>Espada</Name>
-    <Title>Espadas</Title>
+    <Name>Sword</Name>
+    <Title>Swords</Title>
   </Item>
   <Item>
     <ID>Axe</ID>
-    <Name>Hacha</Name>
-    <Title>Hacha</Title>
+    <Name>Axe</Name>
+    <Title>Axe</Title>
   </Item>
   <Item>
     <ID>Hammer</ID>
-    <Name>Martillo</Name>
-    <Title>Martillo</Title>
+    <Name>Hammer</Name>
+    <Title>Hammer</Title>
   </Item>
   <Item>
     <ID>Dodge</ID>
-    <Name>Esquivar</Name>
-    <Title>Evadir</Title>
+    <Name>Dodge</Name>
+    <Title>Dodger</Title>
   </Item>
   <Item>
     <ID>Shield</ID>
-    <Name>Escudo</Name>
-    <Title>Defensor</Title>
+    <Name>Shield</Name>
+    <Title>Shielder</Title>
   </Item>
   <Item>
     <ID>Armor</ID>
-    <Name>Armadura</Name>
-    <Title>Caballero</Title>
+    <Name>Armor</Name>
+    <Title>Knight</Title>
   </Item>
   <Item>
     <ID>Discipline</ID>
-    <Name>Disciplina</Name>
-    <Title>Disciplina</Title>
+    <Name>Discipline</Name>
+    <Title>Discipline</Title>
   </Item>
   <Item>
     <ID>Crossbow</ID>
-    <Name>Ballesta</Name>
-    <Title>Ballesta</Title>
+    <Name>Crossbow</Name>
+    <Title>Crossbow</Title>
   </Item>
   <Item>
     <ID>Gun</ID>
-    <Name>Pistola</Name>
-    <Title>Pistola</Title>
+    <Name>Gun</Name>
+    <Title>Gun</Title>
   </Item>
   <Item>
     <ID>Medic</ID>
-    <Name>Médico</Name>
-    <Title>Médico</Title>
+    <Name>Medic</Name>
+    <Title>Medic</Title>
   </Item>
   <Item>
     <ID>Caretaking</ID>
