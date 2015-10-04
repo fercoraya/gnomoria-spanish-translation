@@ -2777,8 +2777,8 @@
   </Item>
   <Item>
     <ID>Trough</ID>
-    <Name>trough</Name>
-    <Description>[AN_ITEM_NAME].  Used to feed pastured animals.</Description>
+    <Name>comedero</Name>
+    <Description>[AN_ITEM_NAME].  Se usa para alimentar animales.</Description>
     <ObtainDescription>Creado en un taller de piedra</ObtainDescription>
     
     <WeaponSize>200</WeaponSize>
