@@ -3551,11 +3551,11 @@
     <Word>fall</Word>
     <Noun>
       <Singular>fall</Singular>
-      <Plural>falls</Plural>
+      <Plural>caidas</Plural>
     </Noun>
     <Verb>
       <Verb>fall</Verb>
-      <SimplePresent>falls</SimplePresent>
+      <SimplePresent>caido</SimplePresent>
       <SimplePast>fell</SimplePast>
       <PastParticiple>fallen</PastParticiple>
       <PresentParticiple>falling</PresentParticiple>
@@ -9243,7 +9243,7 @@
       <SimplePresent>smashes</SimplePresent>
       <SimplePast>smashed</SimplePast>
       <PastParticiple>smashed</PastParticiple>
-      <PresentParticiple>smashing</PresentParticiple>
+      <PresentParticiple>golpeando</PresentParticiple>
     </Verb>
     <Adjective>
       <Adjective>smashing</Adjective>
