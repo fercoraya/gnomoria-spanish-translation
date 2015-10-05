@@ -684,7 +684,7 @@
 		  </Action>
 		</MenuItem>
 		<MenuItem>
-		  <Text>Rampa hacia abajo</Text>
+		  <Text>Escalera hacia abajo</Text>
 			<ToolTip>Mina el muro para hacer una escalera hacia abajo</ToolTip>
 		  <Action>
 			<Type>BuildStairsDown</Type>

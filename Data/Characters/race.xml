@@ -54,15 +54,15 @@
   -->
   <Item>
     <ID>Gnome</ID>
-    <Name>gnome</Name>
+    <Name>gnomo</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>gnome</Name>
+      <Name>gnomo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>gnome</Name>
+      <Name>gnomo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -187,15 +187,15 @@
   </Item>
   <Item>
     <ID>GnomeMerchant</ID>
-    <Name>gnome</Name>
+    <Name>gnomo</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>gnome</Name>
+      <Name>gnomo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>gnome</Name>
+      <Name>gnomo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -537,15 +537,15 @@
   </Item>
   <Item>
     <ID>HoneyBadger</ID>
-    <Name>honey badger</Name>
+    <Name>tejon de la miel</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>honey badger</Name>
+      <Name>tejon de la miel</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>honey badger</Name>
+      <Name>tejon de la miel</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -602,15 +602,15 @@
   </Item>
   <Item>
     <ID>MonitorLizard</ID>
-    <Name>monitor lizard</Name>
+    <Name>dragon de komodo</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>monitor lizard</Name>
+      <Name>dragon de komodo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>monitor lizard</Name>
+      <Name>dragon de komodo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -667,15 +667,15 @@
   </Item>
   <Item>
     <ID>Bear</ID>
-    <Name>bear</Name>
+    <Name>oso</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>bear</Name>
+      <Name>oso</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>bear</Name>
+      <Name>oso</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -818,10 +818,10 @@
   </Item>
   <Item>
     <ID>Spider</ID>
-    <Name>spider</Name>
+    <Name>aranya</Name>
     <Gender>
       <Gender>Female</Gender>
-      <Name>spider</Name>
+      <Name>aranya</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -939,15 +939,15 @@
   </Item>
   <Item>
     <ID>Ogre</ID>
-    <Name>ogre</Name>
+    <Name>ogro</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>ogre</Name>
+      <Name>ogro</Name>
       <RandomWeight>10</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>ogre</Name>
+      <Name>ogro</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Goblin</LanguageID>
@@ -1028,15 +1028,15 @@
   </Item>
   <Item>
     <ID>BlueOgre</ID>
-    <Name>two-headed ogre</Name>
+    <Name>ogro de dos cabezas</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>two-headed ogre</Name>
+      <Name>ogro de dos cabezas</Name>
       <RandomWeight>10</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>two-headed ogre</Name>
+      <Name>ogro de dos cabezas</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Goblin</LanguageID>
@@ -1117,15 +1117,15 @@
   </Item>
   <Item>
     <ID>Mant</ID>
-    <Name>mant</Name>
+    <Name>hormiga gigante</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>mant</Name>
+      <Name>hormiga gigante</Name>
       <RandomWeight>0</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>mant</Name>
+      <Name>hormiga gigante</Name>
       <RandomWeight>100</RandomWeight>
     </Gender>
     <LanguageID>Goblin</LanguageID>
@@ -1191,15 +1191,15 @@
   </Item>
   <Item>
     <ID>Beetle</ID>
-    <Name>beetle</Name>
+    <Name>escarabajo</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>beetle</Name>
+      <Name>escarabajo</Name>
       <RandomWeight>10</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>beetle</Name>
+      <Name>escarabajo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Goblin</LanguageID>
@@ -1267,15 +1267,15 @@
   </Item>
   <Item>
     <ID>BeetleCocoon</ID>
-    <Name>beetle</Name>
+    <Name>escarabajo</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>beetle cocoon</Name>
+      <Name>capullo de escarabajo</Name>
       <RandomWeight>10</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>beetle cocoon</Name>
+      <Name>capullo de escarabajo</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Goblin</LanguageID>
@@ -1416,15 +1416,15 @@
   </Item>
   <Item>
     <ID>Skeleton</ID>
-    <Name>skeleton</Name>
+    <Name>esqueleto</Name>
     <Gender>
       <Gender>Male</Gender>
-      <Name>skeleton</Name>
+      <Name>esqueleto</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <Gender>
       <Gender>Female</Gender>
-      <Name>skeleton</Name>
+      <Name>esqueleto</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>
@@ -1489,10 +1489,10 @@
   </Item>
   <Item>
     <ID>Automaton</ID>
-    <Name>automaton</Name>
+    <Name>automata</Name>
     <Gender>
       <Gender>Neuter</Gender>
-      <Name>automaton</Name>
+      <Name>automata</Name>
       <RandomWeight>1</RandomWeight>
     </Gender>
     <LanguageID>Gnome</LanguageID>

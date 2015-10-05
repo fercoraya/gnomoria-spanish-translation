@@ -261,7 +261,7 @@
       <Type>Automaton</Type>
       <Class>
         <RaceID>Automaton</RaceID>
-        <Name>Automaton</Name>
+        <Name>automata</Name>
         <Skill>
           <Skill>NaturalAttack</Skill>
           <Min>1</Min>

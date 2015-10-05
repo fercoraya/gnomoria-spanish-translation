@@ -79,8 +79,8 @@
   -->
   <Item>
     <ID>RawSoil</ID>
-    <Name>suelo</Name>
-    <ObtainDescription>Suelo comun</ObtainDescription>
+    <Name>material</Name>
+    <ObtainDescription>material</ObtainDescription>
     
     <Value>0</Value>
     <HasQuality>false</HasQuality>
@@ -3181,7 +3181,7 @@
   </Item>
   <Item>
     <ID>Silica</ID>
-    <ObtainDescription>Obtenido en un puesto de exploradores</ObtainDescription>
+    <ObtainDescription>Obtenido en un puesto de buscadores</ObtainDescription>
     <GroupName>silice</GroupName>
     
     <HasQuality>false</HasQuality>
