@@ -636,7 +636,7 @@
 	  </MenuItem>
 	  <!--Storage-->
 	  <MenuItem>
-		<Text>Almacen</Text>
+		<Text>Almacenaje</Text>
 		<MenuItem>
 		  <Text>Caja</Text>
 		  <Action>

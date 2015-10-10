@@ -130,7 +130,7 @@
   <Item>
     <ID>PlankFloor</ID>
     <Name>suelo</Name>
-    <GroupName>plank floor</GroupName>
+    <GroupName>suelo de madera</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -146,7 +146,7 @@
   <Item>
     <ID>MetalFloor</ID>
     <Name>suelo</Name>
-    <GroupName>metal floor</GroupName>
+    <GroupName>suelo de metal</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -281,7 +281,7 @@
   <Item>
     <ID>PlankWall</ID>
     <Name>muro</Name>
-    <GroupName>plank wall</GroupName>
+    <GroupName>muro de madera</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -305,7 +305,7 @@
   <Item>
     <ID>MetalWall</ID>
     <Name>muro</Name>
-    <GroupName>metal wall</GroupName>
+    <GroupName>muro de metal</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -886,7 +886,7 @@
   <Item>
     <ID>WoodDoor</ID>
     <Name>puerta</Name>
-    <GroupName>wood door</GroupName>
+    <GroupName>puerta de madera</GroupName>
     <SpriteID>
       <SpriteID>WoodDoor</SpriteID>
     </SpriteID>
@@ -948,7 +948,7 @@
   <Item>
     <ID>StoneDoor</ID>
     <Name>puerta</Name>
-    <GroupName>stone door</GroupName>
+    <GroupName>puerta de piedra</GroupName>
     <SpriteID>
       <SpriteID>StoneDoor</SpriteID>
     </SpriteID>
@@ -2950,7 +2950,7 @@
     <ID>WallTorch</ID>
     <Name>antorcha</Name>
     <ToolTip>Proporciona luz</ToolTip>
-    <GroupName>wall torch</GroupName>
+    <GroupName>antorcha de muro</GroupName>
     <Effect>
       <Effect>LightSource</Effect>
       <Amount>16</Amount>
@@ -3073,7 +3073,7 @@
   <Item>
     <ID>SmoothStoneFloor</ID>    
     <Name>suelo liso</Name>
-    <GroupName>stone floor</GroupName>
+    <GroupName>suelo de piedra</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3089,7 +3089,7 @@
   <Item>
     <ID>SmoothStoneWall</ID>    
     <Name>muro liso</Name>
-    <GroupName>stone wall</GroupName>
+    <GroupName>muro de piedra</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3114,7 +3114,7 @@
     <ID>FramedDirtFloor</ID>
     <Prefix>framed</Prefix>
     <Name>suelo</Name>
-    <GroupName>soil floor</GroupName>
+    <GroupName>suelo</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3138,7 +3138,7 @@
     <ID>FramedStoneFloor</ID>
     <Prefix>framed</Prefix>
     <Name>suelo</Name>
-    <GroupName>stone floor</GroupName>
+    <GroupName>suelo de piedra</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3162,7 +3162,7 @@
     <ID>FramedBlockFloor</ID>
     <Prefix>framed</Prefix>
     <Name>suelo</Name>
-    <GroupName>block floor</GroupName>
+    <GroupName>suelo de bloque</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3186,7 +3186,7 @@
     <ID>FramedSmoothFloor</ID>
     <Prefix>framed</Prefix>
     <Name>suelo</Name>
-    <GroupName>smooth floor</GroupName>
+    <GroupName>suelo liso</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3210,7 +3210,7 @@
     <ID>CrossFramedDirtWall</ID>
     <Prefix>cross framed</Prefix>
     <Name>muro</Name>
-    <GroupName>soil wall</GroupName>
+    <GroupName>muro</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3246,7 +3246,7 @@
     <ID>VFramedDirtWall</ID>
     <Prefix>v-framed</Prefix>
     <Name>muro</Name>
-    <GroupName>soil wall</GroupName>
+    <GroupName>muro</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3282,7 +3282,7 @@
     <ID>CrossFramedStoneWall</ID>
     <Prefix>cross framed</Prefix>
     <Name>muro</Name>
-    <GroupName>stone wall</GroupName>
+    <GroupName>muro de piedra</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3318,7 +3318,7 @@
     <ID>VFramedStoneWall</ID>
     <Prefix>v-framed</Prefix>
     <Name>muro</Name>
-    <GroupName>stone wall</GroupName>
+    <GroupName>muro de piedra</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3354,7 +3354,7 @@
     <ID>CrossFramedBlockWall</ID>
     <Prefix>cross framed</Prefix>
     <Name>muro</Name>
-    <GroupName>block wall</GroupName>
+    <GroupName>muro de bloque</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3390,7 +3390,7 @@
     <ID>VFramedBlockWall</ID>
     <Prefix>v-framed</Prefix>
     <Name>muro</Name>
-    <GroupName>block wall</GroupName>
+    <GroupName>muro de bloque</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3426,7 +3426,7 @@
     <ID>PanelledBlockWall</ID>
     <Prefix>wood panelled</Prefix>
     <Name>muro</Name>
-    <GroupName>block wall</GroupName>
+    <GroupName>muro de bloque</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3462,7 +3462,7 @@
     <ID>CrossFramedSmoothWall</ID>
     <Prefix>cross framed</Prefix>
     <Name>muro</Name>
-    <GroupName>smooth wall</GroupName>
+    <GroupName>muro liso</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3498,7 +3498,7 @@
     <ID>VFramedSmoothWall</ID>
     <Prefix>v-framed</Prefix>
     <Name>muro</Name>
-    <GroupName>smooth wall</GroupName>
+    <GroupName>muro liso</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3534,7 +3534,7 @@
     <ID>PanelledSmoothWall</ID>
     <Prefix>wood panelled</Prefix>
     <Name>muro</Name>
-    <GroupName>smooth wall</GroupName>
+    <GroupName>muro liso</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
@@ -3569,7 +3569,7 @@
   <Item>
     <ID>CeramicFloor</ID>
     <Name>suelo</Name>
-    <GroupName>ceramic floor</GroupName>
+    <GroupName>suelo de ceramica</GroupName>
     <Properties>
       <Flags>BlocksLOS</Flags>
     </Properties>
@@ -3586,7 +3586,7 @@
   <Item>
     <ID>CeramicWall</ID>
     <Name>muro</Name>
-    <GroupName>ceramic wall</GroupName>
+    <GroupName>muro de ceramica</GroupName>
     <Properties>
       <Flags>BlocksMovement, BlocksLOS</Flags>
     </Properties>
