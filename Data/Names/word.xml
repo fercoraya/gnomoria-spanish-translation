@@ -164,36 +164,36 @@
   <Item>
     <Word>armor</Word>
     <Noun>
-      <Singular>armor</Singular>
-      <Plural>armors</Plural>
+      <Singular>armadura</Singular>
+      <Plural>armaduras</Plural>
     </Noun>
     <Verb>
-      <Verb>armor</Verb>
-      <SimplePresent>armors</SimplePresent>
-      <SimplePast>armored</SimplePast>
-      <PastParticiple>armored</PastParticiple>
-      <PresentParticiple>armoring</PresentParticiple>
+      <Verb>armar</Verb>
+      <SimplePresent>armar</SimplePresent>
+      <SimplePast>armado</SimplePast>
+      <PastParticiple>armador</PastParticiple>
+      <PresentParticiple>armando</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>armored</Adjective>
+      <Adjective>armado</Adjective>
     </Adjective>
     <ActionNoun>
-      <Singular>armorer</Singular>
-      <Plural>armorers</Plural>
+      <Singular>armero</Singular>
+      <Plural>armeros</Plural>
     </ActionNoun>
   </Item>
   <Item>
     <Word>arrow</Word>
     <Noun>
-      <Singular>arrow</Singular>
-      <Plural>arrows</Plural>
+      <Singular>flecha</Singular>
+      <Plural>flechas</Plural>
     </Noun>
   </Item>
   <Item>
     <Word>artifact</Word>
     <Noun>
-      <Singular>artifact</Singular>
-      <Plural>artifacts</Plural>
+      <Singular>artefacto</Singular>
+      <Plural>artefactos</Plural>
     </Noun>
   </Item>
   <Item>
@@ -272,7 +272,7 @@
   <Item>
     <Word>bad</Word>
     <Adjective>
-      <Adjective>bad</Adjective>
+      <Adjective>malo</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -415,7 +415,7 @@
       <Plural>beasts</Plural>
     </Noun>
     <Adjective>
-      <Adjective>beastly</Adjective>
+      <Adjective>bestial</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -481,7 +481,7 @@
       <PresentParticiple>beguiling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>beguiling</Adjective>
+      <Adjective>seductora</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -544,7 +544,7 @@
   <Item>
     <Word>big</Word>
     <Adjective>
-      <Adjective>big</Adjective>
+      <Adjective>grande</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -582,7 +582,7 @@
       <PresentParticiple>bitching</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bitchy</Adjective>
+      <Adjective>perra</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>bitcher</Singular>
@@ -603,7 +603,7 @@
       <PresentParticiple>blackening</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>black</Adjective>
+      <Adjective>negro</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>blackener</Singular>
@@ -631,7 +631,7 @@
       <PresentParticiple>blazing</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>blazing</Adjective>
+      <Adjective>flameante</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>blazer</Singular>
@@ -652,7 +652,7 @@
       <PresentParticiple>blinding</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>blind</Adjective>
+      <Adjective>ciego</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>blinder</Singular>
@@ -673,7 +673,7 @@
       <PresentParticiple>blistering</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>blistering</Adjective>
+      <Adjective>abrasador</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>blisterer</Singular>
@@ -694,7 +694,7 @@
       <PresentParticiple>bloating</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bloated</Adjective>
+      <Adjective>hinchado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>bloater</Singular>
@@ -715,7 +715,7 @@
       <PresentParticiple>bleeding</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bleeding</Adjective>
+      <Adjective>sangrante</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>bleeder</Singular>
@@ -729,7 +729,7 @@
       <Plural>bloodinesses</Plural>
     </Noun>
     <Adjective>
-      <Adjective>bloody</Adjective>
+      <Adjective>sangriento</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -746,7 +746,7 @@
       <PresentParticiple>blossoming</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>blossoming</Adjective>
+      <Adjective>florecimiento</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>blossomer</Singular>
@@ -756,7 +756,7 @@
   <Item>
     <Word>blue</Word>
     <Adjective>
-      <Adjective>blue</Adjective>
+      <Adjective>azul</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -801,7 +801,7 @@
       <PresentParticiple>boiling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>boiling</Adjective>
+      <Adjective>hirviendo</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>boiler</Singular>
@@ -815,7 +815,7 @@
       <Plural>boldnesses</Plural>
     </Noun>
     <Adjective>
-      <Adjective>bold</Adjective>
+      <Adjective>audaz</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>emboldener</Singular>
@@ -836,7 +836,7 @@
       <PresentParticiple>bolting</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bolted</Adjective>
+      <Adjective>atornillado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>boltener</Singular>
@@ -850,7 +850,7 @@
       <Plural>bones</Plural>
     </Noun>
     <Adjective>
-      <Adjective>boned</Adjective>
+      <Adjective>sin huesos</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -888,7 +888,7 @@
       <PresentParticiple>bothering</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bothering</Adjective>
+      <Adjective>molesto</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>botherer</Singular>
@@ -973,7 +973,7 @@
       <PresentParticiple>breaking</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>broken</Adjective>
+      <Adjective>roto</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>breaker</Singular>
@@ -1062,7 +1062,7 @@
       <PresentParticiple>bridling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bridled</Adjective>
+      <Adjective>embridado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>bridler</Singular>
@@ -1083,7 +1083,7 @@
       <PresentParticiple>brightening</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bright</Adjective>
+      <Adjective>claro</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>brightener</Singular>
@@ -1104,7 +1104,7 @@
       <PresentParticiple>bristling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bristled</Adjective>
+      <Adjective>cerda</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>bristler</Singular>
@@ -1118,7 +1118,7 @@
       <Plural>brilliances</Plural>
     </Noun>
     <Adjective>
-      <Adjective>brilliant</Adjective>
+      <Adjective>brillante</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1159,7 +1159,7 @@
       <PresentParticiple>broiling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>broiled</Adjective>
+      <Adjective>asado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>broiler</Singular>
@@ -1212,7 +1212,7 @@
       <PresentParticiple>buckling</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>buckled</Adjective>
+      <Adjective>abrochado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>buckler</Singular>
@@ -1240,7 +1240,7 @@
       <PresentParticiple>bunching</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>bunched</Adjective>
+      <Adjective>agrupado</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1257,7 +1257,7 @@
       <PresentParticiple>burdening</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>burdened</Adjective>
+      <Adjective>agobiado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>burdener</Singular>
@@ -1278,7 +1278,7 @@
       <PresentParticiple>burning</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>burned</Adjective>
+      <Adjective>quemado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>burner</Singular>
@@ -1299,7 +1299,7 @@
       <PresentParticiple>burying</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>buried</Adjective>
+      <Adjective>enterrado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>burier</Singular>
@@ -1348,7 +1348,7 @@
       <PresentParticiple>busting</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>busted</Adjective>
+      <Adjective>reventado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>buster</Singular>
@@ -1376,7 +1376,7 @@
       <PresentParticiple>busying</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>busy</Adjective>
+      <Adjective>ocupado</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1403,7 +1403,7 @@
       <PresentParticiple>butchering</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>butchered</Adjective>
+      <Adjective>descuartizado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>butcher</Singular>
@@ -1452,7 +1452,7 @@
       <PresentParticiple>buttoning</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>buttoned</Adjective>
+      <Adjective>abotonado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>buttoner</Singular>
@@ -1498,7 +1498,7 @@
       <PresentParticiple>caging</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>caged</Adjective>
+      <Adjective>enjaulado</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1554,7 +1554,7 @@
       <Plural>cancers</Plural>
     </Noun>
     <Adjective>
-      <Adjective>cancerous</Adjective>
+      <Adjective>canceroso</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1581,7 +1581,7 @@
       <PresentParticiple>candying</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>candied</Adjective>
+      <Adjective>azucarado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>candier</Singular>
@@ -1693,7 +1693,7 @@
       <PresentParticiple>chaining</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>chained</Adjective>
+      <Adjective>encadenado</Adjective>
     </Adjective>
   </Item>
   <Item>
@@ -1721,7 +1721,7 @@
       <Plural>chaoses</Plural>
     </Noun>
     <Adjective>
-      <Adjective>chaotic</Adjective>
+      <Adjective>caotico</Adjective>
     </Adjective>
   </Item>
   <Item>
