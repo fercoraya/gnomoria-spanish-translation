@@ -1,164 +1,148 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Words>
-  <Item>
-    <Word>ace</Word>
-    <Noun>
-      <Singular>ace</Singular>
-      <Plural>aces</Plural>
-    </Noun>
-    <Verb>
-      <Verb>ace</Verb>
-      <SimplePresent>aces</SimplePresent>
-      <SimplePast>aced</SimplePast>
-      <PastParticiple>aced</PastParticiple>
-      <PresentParticiple>acing</PresentParticiple>
-    </Verb>
-    <Adjective>
-      <Adjective>ace</Adjective>
-    </Adjective>
-    <ActionNoun>
-      <Singular>acer</Singular>
-      <Plural>acers</Plural>
-    </ActionNoun>
-  </Item>
+ <--
+  palabras eliminadas por no existir en español: ace
+  palabras con modificaciones: armor(no existe un verbo para armadura en el idioma, pero la traduccion mas adecuada para la palabra armored, por ejemplo, es "blindado")
+ 
+ -->
   <Item>
     <Word>act</Word>
     <Noun>
-      <Singular>act</Singular>
-      <Plural>acts</Plural>
+      <Singular>actua</Singular>
+      <Plural>actuan</Plural>
     </Noun>
     <Verb>
-      <Verb>act</Verb>
-      <SimplePresent>acts</SimplePresent>
-      <SimplePast>acted</SimplePast>
-      <PastParticiple>acted</PastParticiple>
-      <PresentParticiple>acting</PresentParticiple>
+      <Verb>actuar</Verb>
+      <SimplePresent>actua</SimplePresent>
+      <SimplePast>actuo</SimplePast>
+      <PastParticiple>atuo</PastParticiple>
+      <PresentParticiple>actuanto</PresentParticiple>
     </Verb>
     <ActionNoun>
       <Singular>actor</Singular>
-      <Plural>actors</Plural>
+      <Plural>actores</Plural>
     </ActionNoun>
   </Item>
   <Item>
     <Word>adventure</Word>
     <Noun>
-      <Singular>adventure</Singular>
-      <Plural>adventures</Plural>
+      <Singular>aventura</Singular>
+      <Plural>aventuran</Plural>
     </Noun>
     <Verb>
-      <Verb>adventure</Verb>
-      <SimplePresent>adventures</SimplePresent>
-      <SimplePast>adventured</SimplePast>
-      <PastParticiple>adventured</PastParticiple>
-      <PresentParticiple>adventuring</PresentParticiple>
+      <Verb>aventurar</Verb>
+      <SimplePresent>aventuran</SimplePresent>
+      <SimplePast>aventura</SimplePast>
+      <PastParticiple>aventuro</PastParticiple>
+      <PresentParticiple>aventurando</PresentParticiple>
     </Verb>
     <ActionNoun>
-      <Singular>adventurer</Singular>
-      <Plural>adventurers</Plural>
+      <Singular>aventurero</Singular>
+      <Plural>aventureros</Plural>
     </ActionNoun>
   </Item>
   <Item>
     <Word>age</Word>
     <Noun>
-      <Singular>age</Singular>
-      <Plural>ages</Plural>
+      <Singular>envejece</Singular>
+      <Plural>envejecen</Plural>
     </Noun>
     <Verb>
-      <Verb>age</Verb>
-      <SimplePresent>ages</SimplePresent>
-      <SimplePast>aged</SimplePast>
-      <PastParticiple>aged</PastParticiple>
-      <PresentParticiple>aging</PresentParticiple>
+      <Verb>envejecer</Verb>
+      <SimplePresent>envejece</SimplePresent>
+      <SimplePast>viejo</SimplePast>
+      <PastParticiple>envejecio</PastParticiple>
+      <PresentParticiple>envejeciendo</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>aging</Adjective>
+      <Adjective>envejece</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>ageless</Word>
     <Adjective>
-      <Adjective>ageless</Adjective>
+      <Adjective>eterno</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>ale</Word>
     <Noun>
-      <Singular>ale</Singular>
-      <Plural>ales</Plural>
+      <Singular>cebada</Singular>
+      <Plural>cebadas</Plural>
     </Noun>
   </Item>
   <Item>
     <Word>alive</Word>
     <Adjective>
-      <Adjective>alive</Adjective>
+      <Adjective>vivo</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>apple</Word>
     <Noun>
-      <Singular>apple</Singular>
-      <Plural>apples</Plural>
+      <Singular>manzana</Singular>
+      <Plural>manzanas</Plural>
     </Noun>
   </Item>
   <Item>
     <Word>ancient</Word>
     <Noun>
-      <Singular>ancient</Singular>
-      <Plural>ancients</Plural>
+      <Singular>antiguo</Singular>
+      <Plural>antiguos</Plural>
     </Noun>
     <Adjective>
-      <Adjective>ancient</Adjective>
+      <Adjective>antiguo</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>angel</Word>
     <Noun>
       <Singular>angel</Singular>
-      <Plural>angels</Plural>
+      <Plural>angeles</Plural>
     </Noun>
     <Adjective>
-      <Adjective>angelic</Adjective>
+      <Adjective>angelical</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>anger</Word>
     <Noun>
-      <Singular>anger</Singular>
-      <Plural>angers</Plural>
+      <Singular>enoja</Singular>
+      <Plural>enojan</Plural>
     </Noun>
     <Verb>
-      <Verb>anger</Verb>
-      <SimplePresent>angers</SimplePresent>
-      <SimplePast>angered</SimplePast>
-      <PastParticiple>angered</PastParticiple>
-      <PresentParticiple>angering</PresentParticiple>
+      <Verb>enojar</Verb>
+      <SimplePresent>enoja</SimplePresent>
+      <SimplePast>enojado</SimplePast>
+      <PastParticiple>enojo</PastParticiple>
+      <PresentParticiple>enojando</PresentParticiple>
     </Verb>
     <Adjective>
-      <Adjective>angery</Adjective>
+      <Adjective>enojon</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>animal</Word>
     <Noun>
       <Singular>animal</Singular>
-      <Plural>animals</Plural>
+      <Plural>animales</Plural>
     </Noun>
     <Adjective>
-      <Adjective>animalistic</Adjective>
+      <Adjective>animalistico</Adjective>
     </Adjective>
   </Item>
   <Item>
     <Word>arm</Word>
     <Noun>
-      <Singular>arm</Singular>
-      <Plural>arms</Plural>
+      <Singular>armado</Singular>
+      <Plural>armados</Plural>
     </Noun>
     <Verb>
-      <Verb>arm</Verb>
-      <SimplePresent>arms</SimplePresent>
-      <SimplePast>armed</SimplePast>
-      <PastParticiple>armed</PastParticiple>
-      <PresentParticiple>arming</PresentParticiple>
+      <Verb>armar</Verb>
+      <SimplePresent>arma</SimplePresent>
+      <SimplePast>armo</SimplePast>
+      <PastParticiple>armo</PastParticiple>
+      <PresentParticiple>armando</PresentParticiple>
     </Verb>
   </Item>
   <Item>
@@ -167,15 +151,9 @@
       <Singular>armadura</Singular>
       <Plural>armaduras</Plural>
     </Noun>
-    <Verb>
-      <Verb>armar</Verb>
-      <SimplePresent>armar</SimplePresent>
-      <SimplePast>armado</SimplePast>
-      <PastParticiple>armador</PastParticiple>
-      <PresentParticiple>armando</PresentParticiple>
-    </Verb>
+    
     <Adjective>
-      <Adjective>armado</Adjective>
+      <Adjective>blindado</Adjective>
     </Adjective>
     <ActionNoun>
       <Singular>armero</Singular>
@@ -203,13 +181,13 @@
     </Adjective>
   </Item>
   <Item>
-    <Word>ash</Word>
+    <Word>ceniza</Word>
     <Noun>
-      <Singular>ash</Singular>
-      <Plural>ashes</Plural>
+      <Singular>ceniza</Singular>
+      <Plural>cenizas</Plural>
     </Noun>
     <Adjective>
-      <Adjective>ashen</Adjective>
+      <Adjective>cenizo</Adjective>
     </Adjective>
   </Item>
   <Item>
